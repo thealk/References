@@ -12982,23 +12982,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   url      = {http://people.linguistics.mcgill.ca/~morgan/book/},
 }
 
-@Article{doi:10.1080/23273798.2019.1589541,
-  author    = {Elaine Kearney and Frank H. Guenther},
-  title     = {Articulating: the neural mechanisms of speech production},
-  journal   = {Language, Cognition and Neuroscience},
-  year      = {2019},
-  volume    = {0},
-  number    = {0},
-  pages     = {1-16},
-  doi       = {10.1080/23273798.2019.1589541},
-  eprint    = {https://doi.org/10.1080/23273798.2019.1589541},
-  keywords  = {read me!},
-  publisher = {Routledge},
-  url       = { https://doi.org/10.1080/23273798.2019.1589541
-
-},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
