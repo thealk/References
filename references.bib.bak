@@ -9149,16 +9149,18 @@ cross validation. The dataset used for method development and evaluation consist
 }
 
 @Article{connolly2014,
-  author    = {Connolly, Barbara S and Lang, Anthony E},
+  author    = {Barbara S. Connolly and Anthony E. Lang},
   title     = {Pharmacological treatment of {P}arkinson disease: A review},
-  journal   = {Jama},
+  journal   = {{JAMA}},
   year      = {2014},
   volume    = {311},
   number    = {16},
   pages     = {1670--1683},
+  month     = {apr},
+  doi       = {10.1001/jama.2014.3654},
   groups    = {Dopamine - Reading group},
-  keywords  = {on off},
-  publisher = {American Medical Association},
+  keywords  = {on off, levodopa},
+  publisher = {American Medical Association ({AMA})},
 }
 
 @article{dorsey1996SIT4Windows,
@@ -9842,18 +9844,20 @@ cross validation. The dataset used for method development and evaluation consist
 	Title = {Neural control of speech movements},
 	Year = {2003}}
 
-@article{aquino2015,
-	Author = {Aquino, Camila Catherine and Fox, Susan H},
-	Doi = {10.1002/mds.26125},
-	Journal = {Movement Disorders},
-	Keywords = {dbs},
-	Number = {1},
-	Pages = {80--89},
-	Publisher = {Wiley Online Library},
-	Title = {Clinical spectrum of levodopa-induced complications},
-	Volume = {30},
-	Year = {2015},
-	Bdsk-Url-1 = {https://doi.org/10.1002/mds.26125}}
+@Article{aquino2015,
+  author     = {Camila Catherine Aquino and Susan H. Fox},
+  title      = {Clinical spectrum of levodopa-induced complications},
+  journal    = {Movement Disorders},
+  year       = {2015},
+  volume     = {30},
+  number     = {1},
+  pages      = {80--89},
+  month      = {dec},
+  bdsk-url-1 = {https://doi.org/10.1002/mds.26125},
+  doi        = {10.1002/mds.26125},
+  keywords   = {dbs},
+  publisher  = {Wiley},
+}
 
 @article{goetz2007,
 	Author = {Goetz, Christopher G and Fahn, Stanley and Martinez-Martin, Pablo and Poewe, Werner and Sampaio, Cristina and Stebbins, Glenn T and Stern, Matthew B and Tilley, Barbara C and Dodel, Richard and Dubois, Bruno and others},
@@ -10635,16 +10639,15 @@ cross validation. The dataset used for method development and evaluation consist
 	Bdsk-Url-1 = {https://doi.org/10.1016/j.csl.2017.06.004}}
 
 @Article{tjaden2017,
-  author        = {Tjaden, Kris and Martel-Sauvageau, Vincent},
-  title         = {Consonant Acoustics in {P}arkinson's Disease and Multiple Sclerosis: Comparison of Clear and Loud Speaking Conditions},
-  journal       = {American Journal of Speech-Language Pathology},
-  year          = {2017},
-  volume        = {26},
-  number        = {2S},
-  pages         = {569--582},
-  __markedentry = {[theaknowles:1]},
-  keywords      = {read me!, motorspeech2016, motor speech},
-  publisher     = {ASHA},
+  author    = {Tjaden, Kris and Martel-Sauvageau, Vincent},
+  title     = {Consonant Acoustics in {P}arkinson's Disease and Multiple Sclerosis: Comparison of Clear and Loud Speaking Conditions},
+  journal   = {American Journal of Speech-Language Pathology},
+  year      = {2017},
+  volume    = {26},
+  number    = {2S},
+  pages     = {569--582},
+  keywords  = {read me!, motorspeech2016, motor speech},
+  publisher = {ASHA},
 }
 
 @inproceedings{meghraoui2016features,
@@ -13522,6 +13525,42 @@ Both individuals with PD and controls used increased duration as a means of enha
   issn     = {1534-4320},
   doi      = {10.1109/TNSRE.2019.2915172},
   keywords = {Noise measurement;Performance evaluation;Feature extraction;Correlation;Auditory system;Quality assessment;Cepstral analysis, voice quality, speech amplification, fmamp},
+}
+
+@Article{mclaughlin2019variations,
+  author    = {McLaughlin, Michaela and Feenaughty, Lynda},
+  title     = {Variations of F2 range measures in mild dysarthria and healthy talkers},
+  journal   = {The Journal of the Acoustical Society of America},
+  year      = {2019},
+  volume    = {145},
+  number    = {3},
+  pages     = {1797--1798},
+  keywords  = {acoustic distinctiveness},
+  publisher = {ASA},
+}
+
+@Article{obeso2010,
+  author    = {Jose A Obeso and Maria C Rodriguez-Oroz and Christopher G Goetz and Concepcion Marin and Jeffrey H Kordower and Manuel Rodriguez and Etienne C Hirsch and Matthew Farrer and Anthony H V Schapira and Glenda Halliday},
+  title     = {Missing pieces in the Parkinson's disease puzzle},
+  journal   = {Nature Medicine},
+  year      = {2010},
+  volume    = {16},
+  number    = {6},
+  pages     = {653},
+  month     = {may},
+  doi       = {10.1038/nm.2165},
+  keywords  = {on off},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{abeyesekera2019,
+  author    = {Abeyesekera, Anita and Adams, Scott and Mancinelli, Cynthia and Knowles, Thea and Gilmore, Greydon and Delrobaei, Mehdi and Jog, Mandar},
+  title     = {Effects of Deep Brain Stimulation of the Subthalamic Nucleus Settings on Voice Quality, Intensity, and Prosody in Parkinson’s Disease: Preliminary Evidence for Speech Optimization},
+  journal   = {Canadian Journal of Neurological Sciences},
+  year      = {2019},
+  pages     = {1--8},
+  keywords  = {dbs},
+  publisher = {Cambridge University Press},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
