@@ -15833,7 +15833,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords  = {fma},
 }
 
-@Book{kryter1994handbook,
+@Book{kryter1994,
   title     = {The handbook of hearing and the effects of noise: Physiology, psychology, and public health},
   publisher = {Academic Press},
   year      = {1994},
@@ -16147,12 +16147,79 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{gustafsson2019voice,
   author    = {Gustafsson, Joakim K{\"o}rner and S{\"o}dersten, Maria and Ternstr{\"o}m, Sten and Schalling, Ellika},
-  title     = {Voice Use in Daily Life Studied With a Portable Voice Accumulator in Individuals With PParkinson's Disease and Matched Healthy Controls},
+  title     = {Voice Use in Daily Life Studied With a Portable Voice Accumulator in Individuals With {P}arkinson's Disease and Matched Healthy Controls},
   journal   = {Journal of Speech, Language, and Hearing Research},
   year      = {2019},
   pages     = {1--11},
   keywords  = {read me!},
   publisher = {ASHA},
+}
+
+@Article{lansford2019,
+  author    = {Lansford, Kaitlin L and Borrie, Stephanie A and Barrett, Tyson S},
+  title     = {Regularity matters: Unpredictable speech degradation inhibits adaptation to dysarthric speech},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  year      = {2019},
+  pages     = {1--9},
+  keywords  = {read me!},
+  publisher = {ASHA},
+}
+
+@Article{ludlow2018,
+  author    = {Ludlow, Christy L and Domangue, Rickie and Sharma, Dinesh and Jinnah, HA and Perlmutter, Joel S and Berke, Gerald and Sapienza, Christine and Smith, Marshall E and Blumin, Joel H and Kalata, Carrie E and others},
+  title     = {Consensus-based attributes for identifying patients with spasmodic dysphonia and other voice disorders},
+  journal   = {{JAMA} Otolaryngology--Head \& Neck Surgery},
+  year      = {2018},
+  volume    = {144},
+  number    = {8},
+  pages     = {657--665},
+  keywords  = {read me!},
+  publisher = {American Medical Association},
+}
+
+@Article{fabbri2017,
+  author    = {Fabbri, Margherita and Guimar{\~a}es, Isabel and Cardoso, Rita and Coelho, Miguel and Guedes, Leonor Correia and Rosa, Mario M and Godinho, Catarina and Abreu, Daisy and Gon{\c{c}}alves, Nilza and Antonini, Angelo and others},
+  title     = {Speech and voice response to a levodopa challenge in late-stage {P}arkinson's disease},
+  journal   = {Frontiers in neurology},
+  year      = {2017},
+  volume    = {8},
+  pages     = {432},
+  comment   = {Take homes: no speech/voice improvements with levodopa in late stage pd},
+  keywords  = {read me!},
+  publisher = {Frontiers},
+}
+
+@Article{spencer2003,
+  author    = {Spencer, Kristie A and Yorkston, Kathryn M and Duffy, Joseph R},
+  title     = {Behavioral management of respiratory/phonatory dysfunction from dysarthria: A flowchart for guidance in clinical decision making},
+  journal   = {Journal of Medical Speech-Language Pathology},
+  year      = {2003},
+  volume    = {11},
+  number    = {2},
+  pages     = {xxxix--xxxix},
+  keywords  = {fma},
+  publisher = {Delmar Learning},
+}
+
+@Article{miller2012,
+  author    = {Miller, Nick},
+  title     = {Speech, voice and language in {P}arkinson's disease: changes and interventions},
+  journal   = {Neurodegenerative Disease Management},
+  year      = {2012},
+  volume    = {2},
+  number    = {3},
+  pages     = {279--289},
+  keywords  = {fma},
+  publisher = {Future Medicine},
+}
+
+@Article{sonderegger2019structure,
+  author    = {Sonderegger, Morgan and Stuart-Smith, Jane and Knowles, Thea and Macdonald, Rachel and Rathcke, Tamara},
+  title     = {Structured heterogeneity in Scottish stops over the 20th Century},
+  journal   = {Language},
+  year      = {2019},
+  groups    = {My work},
+  publisher = {Linguistic Society of America},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
