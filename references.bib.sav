@@ -14,7 +14,7 @@
 }
 
 @article{vilbig1955,
-	Annote = {- clipping has only a small influence on intelligibility.
+	Annote = {- clipping has only a small influence on intelligibility. 
 - abstract only},
 	Author = {Vilbig, Friedrich},
 	Date-Added = {2019-03-01 14:44:46 -0500},
@@ -4000,20 +4000,6 @@ Thus, based on both the machine learning and human perception results, formant s
   author    = {Yorkston, Kathryn M. and David R. Beukelman and Eadie A. Strand and K. R. Bell},
   address   = {Austin},
   edition   = {2},
-}
-
-@Article{weismer2002,
-  author    = {Gary Weismer and Jacqueline S. Laures},
-  title     = {Direct magnitude estimates of speech intelligibility in dysarthria: effects of a chosen standard},
-  journal   = {Journal of Speech, Language, and Hearing Research},
-  year      = {2002},
-  volume    = {45},
-  number    = {3},
-  pages     = {421--433},
-  month     = {jun},
-  doi       = {10.1044/1092-4388(2002/033)},
-  keywords  = {intelligibility methods},
-  publisher = {American Speech Language Hearing Association},
 }
 
 @article{fourakis1991,
@@ -12563,18 +12549,19 @@ cross validation. The dataset used for method development and evaluation consist
 	Volume = {26},
 	Year = {2017}}
 
-@mastersthesis{watkins2005,
-	Abstract = {The speech of individuals with Parkinson's disease (PD) is typically characterized as lacking in proper prosody because of its monopitch and monoloud quality, in addition to its reduced intensity. These qualities make it difficult for others to understand speakers with PD. The purpose of the current study was to identify what individuals with PD would do vocally, if
+@MastersThesis{watkins2005,
+  author    = {Watkins, Lynn Marie},
+  title     = {How individuals with {P}arkinson's disease modify their speech in a repetition for clarification},
+  school    = {Brigham Young University},
+  year      = {2005},
+  abstract  = {The speech of individuals with Parkinson's disease (PD) is typically characterized as lacking in proper prosody because of its monopitch and monoloud quality, in addition to its reduced intensity. These qualities make it difficult for others to understand speakers with PD. The purpose of the current study was to identify what individuals with PD would do vocally, if
 anything at all, to improve speech production following a simulated misunderstanding of what they had just said. The study evaluated the performance of 5 individuals with PD and compared their performance to 5 age- and sex-matched controls. Specifically, measures of vocal intensity (loudness), fundamental frequency (pitch), and utterance duration were made for repetitions of a `misheard' phrase. In one experimental condition noise was presented through headphones to
 induce the Lombard effect.
 
 Both individuals with PD and controls used increased duration as a means of enhancing clarity in a repetition. Fundamental frequency (F0) and sound pressure level (SPL) were not consistently modified in repetitions for clarification. Under most speaking conditions, individuals with PD and controls had similar F0 and SPL. Individuals with PD, like the controls, responded to the presentation of masking noise by increasing their fundamental frequency and their intensity. Therefore, not all individuals with PD exhibit difficulty using prosody.},
-	Author = {Watkins, Lynn Marie},
-	Keywords = {caspd},
-	Publisher = {Brigham Young University-Provo},
-	School = {Brigham Young University},
-	Title = {How individuals with {P}arkinson's disease modify their speech in a repetition for clarification},
-	Year = {2005}}
+  keywords  = {caspd},
+  publisher = {Brigham Young University-Provo},
+}
 
 @article{cheang2007,
 	Author = {Cheang, Henry S and Pell, Marc D},
@@ -15288,26 +15275,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords  = {fma},
 }
 
-@Book{kryter1994,
-  title     = {The handbook of hearing and the effects of noise: Physiology, psychology, and public health},
-  publisher = {Academic Press},
-  year      = {1994},
-  author    = {Kryter, Karl},
-  keywords  = {fma, intelligibility methods},
-}
-
-@Article{pick1989,
-  author    = {Pick, Herbert L Jr and Siegel, Gerald M and Fox, Paul W and Garber, Sharon R and Kearney, Joseph K},
-  title     = {Inhibiting the {L}ombard effect},
-  journal   = {The Journal of the Acoustical Society of America},
-  year      = {1989},
-  volume    = {85},
-  number    = {2},
-  pages     = {894--900},
-  keywords  = {fma, lombard, intelligibility methods},
-  publisher = {ASA},
-}
-
 @Article{lane1971,
   author    = {Lane, Harlan and Tranel, Bernard},
   title     = {The {Lombard} sign and the role of hearing in speech},
@@ -15339,6 +15306,27 @@ Both individuals with PD and controls used increased duration as a means of enha
   year      = {2019},
   pages     = {1--11},
   publisher = {ASHA},
+}
+
+@Article{skodda2013longitudinal,
+  author    = {Skodda, S and Gr{\"o}nheit, W and Mancinelli, N and Schlegel, U},
+  title     = {Progression of voice and speech impairment in the course of Parkinson's disease: a longitudinal study},
+  journal   = {Parkinson’s disease},
+  year      = {2013},
+  volume    = {2013},
+  comment   = {shows deterioration in perceptual and acoustic measures of speech, including a 4-pt ordinal intell scale, over time in PD. Also demonstrates difs between PD and controls at baseline.},
+  keywords  = {intelligibility methods},
+  publisher = {Hindawi},
+}
+
+@Article{sonderegger2019,
+  author    = {Sonderegger, Morgan and Stuart-Smith, Jane and Knowles, Thea and Macdonald, Rachel and Rathcke, Tamara},
+  title     = {Structured heterogeneity in {S}cottish stops over the {20th Century}},
+  journal   = {Language},
+  year      = {2019},
+  groups    = {My work},
+  keywords  = {intelligibility methods},
+  publisher = {Linguistic Society of America},
 }
 
 @Article{lansford2019,
@@ -15375,18 +15363,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Frontiers},
 }
 
-@Article{spencer2003,
-  author    = {Spencer, Kristie A and Yorkston, Kathryn M and Duffy, Joseph R},
-  title     = {Behavioral management of respiratory/phonatory dysfunction from dysarthria: A flowchart for guidance in clinical decision making},
-  journal   = {Journal of Medical Speech-Language Pathology},
-  year      = {2003},
-  volume    = {11},
-  number    = {2},
-  pages     = {xxxix--xxxix},
-  keywords  = {fma, intelligibility methods},
-  publisher = {Delmar Learning},
-}
-
 @Article{miller2012,
   author    = {Miller, Nick},
   title     = {Speech, voice and language in {P}arkinson's disease: changes and interventions},
@@ -15399,17 +15375,32 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Future Medicine},
 }
 
-@Article{sonderegger2019,
-  author    = {Sonderegger, Morgan and Stuart-Smith, Jane and Knowles, Thea and Macdonald, Rachel and Rathcke, Tamara},
-  title     = {Structured heterogeneity in {S}cottish stops over the {20th Century}},
-  journal   = {Language},
-  year      = {2019},
-  groups    = {My work},
-  keywords  = {intelligibility methods},
-  publisher = {Linguistic Society of America},
+@Article{spencer2003,
+  author    = {Spencer, Kristie A and Yorkston, Kathryn M and Duffy, Joseph R},
+  title     = {Behavioral management of respiratory/phonatory dysfunction from dysarthria: A flowchart for guidance in clinical decision making},
+  journal   = {Journal of Medical Speech-Language Pathology},
+  year      = {2003},
+  volume    = {11},
+  number    = {2},
+  pages     = {xxxix--xxxix},
+  keywords  = {fma, intelligibility methods},
+  publisher = {Delmar Learning},
 }
 
-<<<<<<< HEAD
+@Article{weismer2002,
+  author    = {Gary Weismer and Jacqueline S. Laures},
+  title     = {Direct magnitude estimates of speech intelligibility in dysarthria: effects of a chosen standard},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  year      = {2002},
+  volume    = {45},
+  number    = {3},
+  pages     = {421--433},
+  month     = {jun},
+  doi       = {10.1044/1092-4388(2002/033)},
+  keywords  = {intelligibility methods},
+  publisher = {American Speech Language Hearing Association},
+}
+
 @Book{Kryter1994,
   title     = {The handbook of hearing and the effects of noise: Physiology, psychology, and public health},
   publisher = {Academic Press},
@@ -15428,27 +15419,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   pages     = {894--900},
   keywords  = {fma, lombard, intelligibility methods},
   publisher = {ASA},
-=======
-@Article{skodda2013longitudinal,
-  author    = {Skodda, S and Gr{\"o}nheit, W and Mancinelli, N and Schlegel, U},
-  title     = {Progression of voice and speech impairment in the course of Parkinson's disease: a longitudinal study},
-  journal   = {Parkinson’s disease},
-  year      = {2013},
-  volume    = {2013},
-  comment   = {shows deterioration in perceptual and acoustic measures of speech, including a 4-pt ordinal intell scale, over time in PD. Also demonstrates difs between PD and controls at baseline.},
-  keywords  = {intelligibility methods},
-  publisher = {Hindawi},
-}
-
-@Article{olson2019,
-  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
-  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
-  journal   = {Frontiers in neurology},
-  year      = {2019},
-  volume    = {10},
-  pages     = {62},
-  publisher = {Frontiers},
->>>>>>> 24463c9bc49da46225b07590eb0a31e4a7602297
 }
 
 @Article{olson2019,
@@ -15461,6 +15431,16 @@ Both individuals with PD and controls used increased duration as a means of enha
   comment   = {motor learning impaired in PD},
   keywords  = {radi discussion},
   publisher = {Frontiers},
+}
+
+@Article{crandell2001,
+  author   = {Crandell, C and Charlton, Malika and Kinder, M and Kreisman, B},
+  title    = {Effects of portable sound field {FM} systems on speech perception in noise},
+  journal  = {Journal of Educational Audiology},
+  year     = {2001},
+  volume   = {9},
+  pages    = {8--12},
+  keywords = {fmamp, fma},
 }
 
 @Article{laplante2010,
@@ -15486,16 +15466,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {SAGE Publications Sage CA: Los Angeles, CA},
 }
 
-@Article{crandell2001,
-  author   = {Crandell, C and Charlton, Malika and Kinder, M and Kreisman, B},
-  title    = {Effects of portable sound field {FM} systems on speech perception in noise},
-  journal  = {Journal of Educational Audiology},
-  year     = {2001},
-  volume   = {9},
-  pages    = {8--12},
-  keywords = {fmamp, fma},
-}
-
 @Article{nabelek1986,
   author   = {N{\'a}b{\u{e}}lek, AK and Donahue, AM and Letowski, TR},
   title    = {Comparison of amplification systems in a classroom.},
@@ -15507,16 +15477,17 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords = {fmamp, fma},
 }
 
-@Article{skodda2013progression,
-  author    = {Skodda, S and Gr{\"o}nheit, W and Mancinelli, N and Schlegel, U},
-  title     = {Progression of voice and speech impairment in the course of Parkinson's disease: a longitudinal study},
-  journal   = {Parkinson’s disease},
-  year      = {2013},
-  volume    = {2013},
-  publisher = {Hindawi},
+@Article{olson2019,
+  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
+  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
+  journal   = {Frontiers in neurology},
+  year      = {2019},
+  volume    = {10},
+  pages     = {62},
+  publisher = {Frontiers},
 }
 
-@Article{abur2019visua,
+@Article{abur2019,
   author    = {Abur, Defne and Enos, Nicole M and Stepp, Cara E},
   title     = {Visual Analog Scale Ratings and Orthographic Transcription Measures of Sentence Intelligibility in Parkinson's Disease With Variable Listener Exposure},
   journal   = {American journal of speech-language pathology},
@@ -15527,7 +15498,57 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {ASHA},
 }
 
+@Article{skodda2013progression,
+  author    = {Skodda, S and Gr{\"o}nheit, W and Mancinelli, N and Schlegel, U},
+  title     = {Progression of voice and speech impairment in the course of Parkinson's disease: a longitudinal study},
+  journal   = {Parkinson’s disease},
+  year      = {2013},
+  volume    = {2013},
+  publisher = {Hindawi},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 KeywordGroup:DBS Paper\;0\;keywords\;dbs\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:TVS\;0\;keywords\;tvs\;0\;0\;1\;\;\;\;;
+1 StaticGroup:PSC DBS Grant Proposal\;0\;1\;\;\;\;;
+1 KeywordGroup:Low frequency stimulation\;0\;keywords\;lfs\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Multiple Baseline Design\;0\;keywords\;multiple baseline\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Resynthesis\;0\;keywords\;resynthesis\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Ataxia\;0\;keywords\;ataxia\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Speech rate\;0\;keywords\;rate\;0\;0\;0\;\;\;\;;
+2 KeywordGroup:Rate reduction\;0\;keywords\;rate reduction\;0\;0\;1\;\;\;\;;
+2 KeywordGroup:Healthy speech & rate\;0\;keywords\;healthy speech rate\;0\;0\;1\;\;\;\;;
+2 KeywordGroup:Clear speech\;0\;keywords\;clear speech\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Spasmodic dysphonia\;0\;keywords\;spasmodic dysphonia\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:On-Off\;0\;keywords\;on off\;0\;0\;0\;\;\;\;;
+2 StaticGroup:Dopamine - Reading group\;0\;1\;\;\;\;;
+1 KeywordGroup:Cognition in PD\;0\;keywords\;cognitive screening\;0\;0\;0\;\;\;\;;
+2 KeywordGroup:DRS\;0\;keywords\;drs\;0\;0\;1\;\;\;\;;
+2 KeywordGroup:MoCA\;0\;keywords\;moca\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Normal aging & speech changes\;0\;keywords\;aging\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Predictors of intelligibility\;0\;keywords\;intelligibility predictor\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Acoustic distinctiveness\;0\;keywords\;acoustic distinctiveness\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Communication Devices\;0\;keywords\;communication devices\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Vowels vs Consonants Intelligibility\;0\;keywords\;vowels vs consonants intelligibility\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Intelligibility Methods\;0\;keywords\;intelligibility methods\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Read me!\;0\;keywords\;read me!\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Prominence\;0\;keywords\;prominence\;0\;0\;1\;\;\;\;;
+1 StaticGroup:My work\;0\;1\;\;\;\;;
+1 KeywordGroup:Consonant composite\;0\;keywords\;consonant composite\;0\;0\;1\;\;\;\;;
+1 SearchGroup:stats\;0\;stats\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Disordered corpora\;0\;keywords\;corpora\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:CASPD\;0\;keywords\;caspd\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:speech stimuli noise\;0\;keywords\;speech stimuli noise\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:confusion matrix\;0\;keywords\;confusion matrix\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:acoustics\;0\;keywords\;acoustics\;0\;0\;0\;\;\;\;;
+2 KeywordGroup:vot\;0\;keywords\;vot\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:R Packages\;0\;keywords\;r package\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Radi discussion new\;0\;keywords\;radi discussion\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:fma\;0\;keywords\;fma\;0\;0\;1\;\;\;\;;
+}
 
 @Comment{jabref-meta: groupsversion:
 3;
