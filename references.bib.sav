@@ -15477,16 +15477,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords = {fmamp, fma},
 }
 
-@Article{olson2019,
-  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
-  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
-  journal   = {Frontiers in neurology},
-  year      = {2019},
-  volume    = {10},
-  pages     = {62},
-  publisher = {Frontiers},
-}
-
 @Article{abur2019,
   author    = {Abur, Defne and Enos, Nicole M and Stepp, Cara E},
   title     = {Visual Analog Scale Ratings and Orthographic Transcription Measures of Sentence Intelligibility in Parkinson's Disease With Variable Listener Exposure},
@@ -15505,6 +15495,13 @@ Both individuals with PD and controls used increased duration as a means of enha
   year      = {2013},
   volume    = {2013},
   publisher = {Hindawi},
+}
+
+@Book{kent1997,
+  title     = {The speech sciences},
+  publisher = {Singular Publishing Group},
+  year      = {1997},
+  author    = {Kent, Raymond D},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
