@@ -15288,7 +15288,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords  = {fma},
 }
 
-@Book{kryter1994,
+@Book{Kryter1994,
   title     = {The handbook of hearing and the effects of noise: Physiology, psychology, and public health},
   publisher = {Academic Press},
   year      = {1994},
@@ -15320,7 +15320,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {ASHA},
 }
 
-@Article{pick1989,
+@Article{PickJr1989,
   author    = {Pick Jr, Herbert L and Siegel, Gerald M and Fox, Paul W and Garber, Sharon R and Kearney, Joseph K},
   title     = {Inhibiting the {Lombard} effect},
   journal   = {The Journal of the Acoustical Society of America},
@@ -15363,7 +15363,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {American Medical Association},
 }
 
-@Article{fabbri2017,
+@Article{Fabbri2017,
   author    = {Fabbri, Margherita and Guimar{\~a}es, Isabel and Cardoso, Rita and Coelho, Miguel and Guedes, Leonor Correia and Rosa, Mario M and Godinho, Catarina and Abreu, Daisy and Gon{\c{c}}alves, Nilza and Antonini, Angelo and others},
   title     = {Speech and voice response to a levodopa challenge in late-stage {P}arkinson's disease},
   journal   = {Frontiers in neurology},
@@ -15430,7 +15430,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Frontiers},
 }
 
-@Article{olson2019,
+@Article{Olson2019,
   author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
   title     = {Motor Learning Deficits in {Parkinson's disease (PD)} and their Effect on Training Response in Gait and Balance: A Narrative Review},
   journal   = {Frontiers in neurology},
@@ -15506,7 +15506,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Hindawi},
 }
 
-@Book{kent1997,
+@Book{Kent1997,
   title     = {The speech sciences},
   publisher = {Singular Publishing Group},
   year      = {1997},
