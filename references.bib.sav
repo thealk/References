@@ -15513,6 +15513,17 @@ Both individuals with PD and controls used increased duration as a means of enha
   author    = {Kent, Raymond D},
 }
 
+@Article{thies2020,
+  author    = {Thies, Tabea and M{\"u}cke, Doris and Lowit, Anja and Kalbe, Elke and Steffen, Julia and Barbe, Michael T},
+  title     = {Prominence marking in parkinsonian speech and its correlation with motor performance and cognitive abilities},
+  journal   = {Neuropsychologia},
+  year      = {2020},
+  volume    = {137},
+  pages     = {107306},
+  keywords  = {caspd},
+  publisher = {Elsevier},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
