@@ -15297,7 +15297,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords  = {fma, intelligibility methods},
 }
 
-@Article{Pick1989,
+@Article{pick1989,
   author    = {Pick, Herbert L Jr and Siegel, Gerald M and Fox, Paul W and Garber, Sharon R and Kearney, Joseph K},
   title     = {Inhibiting the {L}ombard effect},
   journal   = {The Journal of the Acoustical Society of America},
@@ -15419,6 +15419,16 @@ Both individuals with PD and controls used increased duration as a means of enha
   comment   = {shows deterioration in perceptual and acoustic measures of speech, including a 4-pt ordinal intell scale, over time in PD. Also demonstrates difs between PD and controls at baseline.},
   keywords  = {intelligibility methods},
   publisher = {Hindawi},
+}
+
+@Article{Olson2019,
+  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
+  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
+  journal   = {Frontiers in neurology},
+  year      = {2019},
+  volume    = {10},
+  pages     = {62},
+  publisher = {Frontiers},
 }
 
 @Article{Olson2019,
