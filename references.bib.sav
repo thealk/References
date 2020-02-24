@@ -6730,16 +6730,17 @@ Results: Stimulation of the subthalamic nucleus at 60 Hz has provided benefit in
 	Volume = {172},
 	Year = {2017}}
 
-@article{gill2008,
-	Author = {Gill, David J and Freshman, Arielle and Blender, Jennifer A and Ravina, Bernard},
-	Journal = {Movement disorders},
-	Keywords = {moca, cognitive screening, pd},
-	Number = {7},
-	Pages = {1043--1046},
-	Publisher = {Wiley Online Library},
-	Title = {The Montreal cognitive assessment as a screening tool for cognitive impairment in Parkinson's disease},
-	Volume = {23},
-	Year = {2008}}
+@Article{gill2008,
+  author    = {Gill, David J and Freshman, Arielle and Blender, Jennifer A and Ravina, Bernard},
+  title     = {The {M}ontreal cognitive assessment as a screening tool for cognitive impairment in {P}arkinson's disease},
+  journal   = {Movement disorders},
+  year      = {2008},
+  volume    = {23},
+  number    = {7},
+  pages     = {1043--1046},
+  keywords  = {moca, cognitive screening, pd},
+  publisher = {Wiley Online Library},
+}
 
 @article{bezdicek2015,
 	Author = {Bezdicek, Ondrej and Michalec, Jiri and Nikolai, Tomas and Havr{\'a}nkov{\'a}, Petra and Roth, Jan and Jech, Robert and R{\r{u}}{\v{z}}i{\v{c}}ka, Ev{\v{z}}en},
@@ -15288,7 +15289,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords  = {fma},
 }
 
-@Book{kryter1994,
+@Book{Kryter1994,
   title     = {The handbook of hearing and the effects of noise: Physiology, psychology, and public health},
   publisher = {Academic Press},
   year      = {1994},
@@ -15296,7 +15297,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords  = {fma, intelligibility methods},
 }
 
-@Article{pick1989,
+@Article{Pick1989,
   author    = {Pick, Herbert L Jr and Siegel, Gerald M and Fox, Paul W and Garber, Sharon R and Kearney, Joseph K},
   title     = {Inhibiting the {L}ombard effect},
   journal   = {The Journal of the Acoustical Society of America},
@@ -15320,7 +15321,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {ASHA},
 }
 
-@Article{pick1989,
+@Article{PickJr1989,
   author    = {Pick Jr, Herbert L and Siegel, Gerald M and Fox, Paul W and Garber, Sharon R and Kearney, Joseph K},
   title     = {Inhibiting the {Lombard} effect},
   journal   = {The Journal of the Acoustical Society of America},
@@ -15363,7 +15364,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {American Medical Association},
 }
 
-@Article{fabbri2017,
+@Article{Fabbri2017,
   author    = {Fabbri, Margherita and Guimar{\~a}es, Isabel and Cardoso, Rita and Coelho, Miguel and Guedes, Leonor Correia and Rosa, Mario M and Godinho, Catarina and Abreu, Daisy and Gon{\c{c}}alves, Nilza and Antonini, Angelo and others},
   title     = {Speech and voice response to a levodopa challenge in late-stage {P}arkinson's disease},
   journal   = {Frontiers in neurology},
@@ -15420,17 +15421,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Hindawi},
 }
 
-@Article{olson2019,
-  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
-  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
-  journal   = {Frontiers in neurology},
-  year      = {2019},
-  volume    = {10},
-  pages     = {62},
-  publisher = {Frontiers},
-}
-
-@Article{olson2019,
+@Article{Olson2019,
   author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
   title     = {Motor Learning Deficits in {Parkinson's disease (PD)} and their Effect on Training Response in Gait and Balance: A Narrative Review},
   journal   = {Frontiers in neurology},
@@ -15486,6 +15477,15 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords = {fmamp, fma},
 }
 
+@Article{skodda2013progression,
+  author    = {Skodda, S and Gr{\"o}nheit, W and Mancinelli, N and Schlegel, U},
+  title     = {Progression of voice and speech impairment in the course of Parkinson's disease: a longitudinal study},
+  journal   = {Parkinson’s disease},
+  year      = {2013},
+  volume    = {2013},
+  publisher = {Hindawi},
+}
+
 @Article{abur2019,
   author    = {Abur, Defne and Enos, Nicole M and Stepp, Cara E},
   title     = {Visual Analog Scale Ratings and Orthographic Transcription Measures of Sentence Intelligibility in Parkinson's Disease With Variable Listener Exposure},
@@ -15497,20 +15497,39 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {ASHA},
 }
 
-@Article{skodda2013progression,
-  author    = {Skodda, S and Gr{\"o}nheit, W and Mancinelli, N and Schlegel, U},
-  title     = {Progression of voice and speech impairment in the course of Parkinson's disease: a longitudinal study},
-  journal   = {Parkinson’s disease},
-  year      = {2013},
-  volume    = {2013},
-  publisher = {Hindawi},
-}
-
-@Book{kent1997,
+@Book{Kent1997,
   title     = {The speech sciences},
   publisher = {Singular Publishing Group},
   year      = {1997},
   author    = {Kent, Raymond D},
+}
+
+@PhdThesis{jiao2019computational,
+  author   = {Jiao, Yishan},
+  title    = {A Computational Model of the Relationship Between Speech Intelligibility and Speech Acoustics},
+  school   = {Arizona State University},
+  year     = {2019},
+  keywords = {intelligibility methods, read me!, predictors of intelligibility},
+}
+
+@Article{dykstra2012conversational,
+  author    = {Dykstra, Allyson D and Adams, Scott G and Jog, Mandar},
+  title     = {Examining the conversational speech intelligibility of individuals with hypophonia associated with {P}arkinson's disease},
+  journal   = {Journal of Medical Speech-Language Pathology},
+  year      = {2012},
+  volume    = {20},
+  number    = {4},
+  pages     = {53--59},
+  publisher = {Delmar Learning},
+}
+
+@Article{nasreddine2005,
+  author  = {ZS Nasreddine and NA Phillips and V Bedirian},
+  title   = {The {Montreal Cognitive Assessment, MoCA}: a brief screening tool for mild cognitive impairment},
+  journal = {Journal of the American Geriatrics Society},
+  year    = {2005},
+  volume  = {53},
+  pages   = {695--699},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
