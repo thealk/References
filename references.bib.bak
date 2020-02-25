@@ -15321,18 +15321,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {ASHA},
 }
 
-@Article{PickJr1989,
-  author    = {Pick Jr, Herbert L and Siegel, Gerald M and Fox, Paul W and Garber, Sharon R and Kearney, Joseph K},
-  title     = {Inhibiting the {Lombard} effect},
-  journal   = {The Journal of the Acoustical Society of America},
-  year      = {1989},
-  volume    = {85},
-  number    = {2},
-  pages     = {894--900},
-  keywords  = {acoustics},
-  publisher = {ASA},
-}
-
 @Article{gustafsson2019,
   author    = {Gustafsson, Joakim K{\"o}rner and S{\"o}dersten, Maria and Ternstr{\"o}m, Sten and Schalling, Ellika},
   title     = {Voice Use in Daily Life Studied With a Portable Voice Accumulator in Individuals With {P}arkinson's Disease and Matched Healthy Controls},
@@ -15419,16 +15407,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   comment   = {shows deterioration in perceptual and acoustic measures of speech, including a 4-pt ordinal intell scale, over time in PD. Also demonstrates difs between PD and controls at baseline.},
   keywords  = {intelligibility methods},
   publisher = {Hindawi},
-}
-
-@Article{Olson2019,
-  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
-  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
-  journal   = {Frontiers in neurology},
-  year      = {2019},
-  volume    = {10},
-  pages     = {62},
-  publisher = {Frontiers},
 }
 
 @Article{Olson2019,
@@ -15534,12 +15512,45 @@ Both individuals with PD and controls used increased duration as a means of enha
 }
 
 @Article{nasreddine2005,
-  author  = {ZS Nasreddine and NA Phillips and V Bedirian},
+  author  = {Nasreddine, Ziad S and Phillips, Natalie A and B{\'e}dirian, Val{\'e}rie and Charbonneau, Simon and Whitehead, Victor and Collin, Isabelle and Cummings, Jeffrey L and Chertkow, Howard},
   title   = {The {Montreal Cognitive Assessment, MoCA}: a brief screening tool for mild cognitive impairment},
-  journal = {Journal of American Geriatric Society},
+  journal = {Journal of the American Geriatrics Society},
   year    = {2005},
   volume  = {53},
+  number  = {4},
   pages   = {695--699},
+}
+
+@Article{poll2016,
+  author    = {Poll, Gerard H and Miller, Carol A and van Hell, Janet G},
+  title     = {Sentence repetition accuracy in adults with developmental language impairment: Interactions of participant capacities and sentence structures},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  year      = {2016},
+  volume    = {59},
+  number    = {2},
+  pages     = {302--316},
+  publisher = {ASHA},
+}
+
+@Article{Olson2019,
+  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
+  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
+  journal   = {Frontiers in neurology},
+  year      = {2019},
+  volume    = {10},
+  pages     = {62},
+  publisher = {Frontiers},
+}
+
+@Article{schum1997,
+  author    = {Schum, Robert L and Sivan, Abigail B},
+  title     = {Verbal abilities in healthy elderly adults},
+  journal   = {Applied Neuropsychology},
+  year      = {1997},
+  volume    = {4},
+  number    = {2},
+  pages     = {130--134},
+  publisher = {Taylor \& Francis},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
