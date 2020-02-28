@@ -15409,7 +15409,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Hindawi},
 }
 
-@Article{Olson2019,
+@Article{olson2019,
   author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
   title     = {Motor Learning Deficits in {Parkinson's disease (PD)} and their Effect on Training Response in Gait and Balance: A Narrative Review},
   journal   = {Frontiers in neurology},
@@ -15465,15 +15465,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   keywords = {fmamp, fma},
 }
 
-@Article{skodda2013progression,
-  author    = {Skodda, S and Gr{\"o}nheit, W and Mancinelli, N and Schlegel, U},
-  title     = {Progression of voice and speech impairment in the course of Parkinson's disease: a longitudinal study},
-  journal   = {Parkinson’s disease},
-  year      = {2013},
-  volume    = {2013},
-  publisher = {Hindawi},
-}
-
 @Article{abur2019,
   author    = {Abur, Defne and Enos, Nicole M and Stepp, Cara E},
   title     = {Visual Analog Scale Ratings and Orthographic Transcription Measures of Sentence Intelligibility in Parkinson's Disease With Variable Listener Exposure},
@@ -15483,6 +15474,15 @@ Both individuals with PD and controls used increased duration as a means of enha
   number    = {3},
   pages     = {1222--1232},
   publisher = {ASHA},
+}
+
+@Article{skodda2013progression,
+  author    = {Skodda, S and Gr{\"o}nheit, W and Mancinelli, N and Schlegel, U},
+  title     = {Progression of voice and speech impairment in the course of Parkinson's disease: a longitudinal study},
+  journal   = {Parkinson’s disease},
+  year      = {2013},
+  volume    = {2013},
+  publisher = {Hindawi},
 }
 
 @Book{Kent1997,
@@ -15498,6 +15498,17 @@ Both individuals with PD and controls used increased duration as a means of enha
   school   = {Arizona State University},
   year     = {2019},
   keywords = {intelligibility methods, read me!, predictors of intelligibility},
+}
+
+@Article{poll2016,
+  author    = {Poll, Gerard H and Miller, Carol A and van Hell, Janet G},
+  title     = {Sentence repetition accuracy in adults with developmental language impairment: Interactions of participant capacities and sentence structures},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  year      = {2016},
+  volume    = {59},
+  number    = {2},
+  pages     = {302--316},
+  publisher = {ASHA},
 }
 
 @Article{dykstra2012conversational,
@@ -15521,28 +15532,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   pages   = {695--699},
 }
 
-@Article{poll2016,
-  author    = {Poll, Gerard H and Miller, Carol A and van Hell, Janet G},
-  title     = {Sentence repetition accuracy in adults with developmental language impairment: Interactions of participant capacities and sentence structures},
-  journal   = {Journal of Speech, Language, and Hearing Research},
-  year      = {2016},
-  volume    = {59},
-  number    = {2},
-  pages     = {302--316},
-  publisher = {ASHA},
-}
-
-@Article{Olson2019,
-  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
-  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
-  journal   = {Frontiers in neurology},
-  year      = {2019},
-  volume    = {10},
-  pages     = {62},
-  publisher = {Frontiers},
-}
-
-@Article{schum1997verba,
+@Article{schum1997,
   author    = {Schum, Robert L and Sivan, Abigail B},
   title     = {Verbal abilities in healthy elderly adults},
   journal   = {Applied Neuropsychology},
@@ -15551,6 +15541,16 @@ Both individuals with PD and controls used increased duration as a means of enha
   number    = {2},
   pages     = {130--134},
   publisher = {Taylor \& Francis},
+}
+
+@Article{greenberg2012,
+  author  = {Greenberg, Sherry A},
+  title   = {The geriatric depression scale (GDS)},
+  journal = {Best Practices in Nursing Care to Older Adults},
+  year    = {2012},
+  volume  = {4},
+  number  = {1},
+  pages   = {1--2},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
