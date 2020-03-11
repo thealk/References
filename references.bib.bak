@@ -15409,16 +15409,6 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Hindawi},
 }
 
-@Article{Olson2019,
-  author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
-  title     = {Motor learning deficits in Parkinson's disease (PD) and their effect on training response in gait and balance: a narrative review},
-  journal   = {Frontiers in neurology},
-  year      = {2019},
-  volume    = {10},
-  pages     = {62},
-  publisher = {Frontiers},
-}
-
 @Article{olson2019,
   author    = {Olson, Markey and Lockhart, Thurmon E and Lieberman, Abraham},
   title     = {Motor Learning Deficits in {Parkinson's disease (PD)} and their Effect on Training Response in Gait and Balance: A Narrative Review},
@@ -15561,6 +15551,20 @@ Both individuals with PD and controls used increased duration as a means of enha
   volume  = {4},
   number  = {1},
   pages   = {1--2},
+}
+
+@Article{vizza2017,
+  author    = {Vizza, Patrizia and Tradigo, Giuseppe and Mirarchi, Domenico and Bossio, Roberto Bruno and Veltri, Pierangelo},
+  title     = {On the Use of Voice Signals for Studying Sclerosis Disease},
+  journal   = {Computers},
+  year      = {2017},
+  volume    = {6},
+  number    = {4},
+  pages     = {30},
+  comment   = {good description of jitter, shimmer, hnr, vowel space metrics. however their results reporting is terrible and full of errors and oddities i think...},
+  doi       = {10.3390/computers6040030},
+  keywords  = {acoustics, ms, multiple sclerosis},
+  publisher = {Multidisciplinary Digital Publishing Institute},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -15553,6 +15553,20 @@ Both individuals with PD and controls used increased duration as a means of enha
   pages   = {1--2},
 }
 
+@Article{vizza2017,
+  author    = {Vizza, Patrizia and Tradigo, Giuseppe and Mirarchi, Domenico and Bossio, Roberto Bruno and Veltri, Pierangelo},
+  title     = {On the Use of Voice Signals for Studying Sclerosis Disease},
+  journal   = {Computers},
+  year      = {2017},
+  volume    = {6},
+  number    = {4},
+  pages     = {30},
+  comment   = {good description of jitter, shimmer, hnr, vowel space metrics. however their results reporting is terrible and full of errors and oddities i think.... MDPI was a predatory journal on Beal's list f},
+  doi       = {10.3390/computers6040030},
+  keywords  = {acoustics, ms, multiple sclerosis},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
