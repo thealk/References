@@ -15647,15 +15647,16 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Elsevier},
 }
 
-@Article{galaz2016prosodi,
-  author    = {Galaz, Zoltan and Mekyska, Jiri and Mzourek, Zdenek and Smekal, Zdenek and Rektorova, Irena and Eliasova, Ilona and Kostalova, Milena and Mrackova, Martina and Berankova, Dagmar},
-  title     = {Prosodic analysis of neutral, stress-modified and rhymed speech in patients with Parkinson's disease},
-  journal   = {Computer methods and programs in biomedicine},
-  year      = {2016},
-  volume    = {127},
-  pages     = {301--317},
-  keywords  = {caspd},
-  publisher = {Elsevier},
+@Article{francis2003accurac,
+  author    = {Francis, Alexander L and Ciocca, Valter and Ching Yu, Jojo Man},
+  title     = {Accuracy and variability of acoustic measures of voicing onset},
+  journal   = {The Journal of the Acoustical Society of America},
+  year      = {2003},
+  volume    = {113},
+  number    = {2},
+  pages     = {1025--1032},
+  keywords  = {acoustics},
+  publisher = {Acoustical Society of America},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
