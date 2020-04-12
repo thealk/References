@@ -1764,16 +1764,16 @@ Results indicate that intelligibility testing can be employed to evaluate dysart
 
 @Article{andreetta2016,
   author     = {Monika D. Andreetta and Scott G. Adams and Allyson D. Dykstra and Mandar Jog},
-  title      = {Evaluation of Speech Amplification Devices in {P}arkinson's Disease},
   journal    = {American Journal of Speech-Language Pathology},
+  title      = {Evaluation of Speech Amplification Devices in {P}arkinson's Disease},
   year       = {2016},
-  volume     = {25},
+  month      = {feb},
   number     = {1},
   pages      = {29--45},
-  month      = {feb},
+  volume     = {25},
   bdsk-url-1 = {http://dx.doi.org/10.1044/2015_ajslp-15-0008},
   doi        = {10.1044/2015_ajslp-15-0008},
-  keywords   = {communication devices, fmamp, fma},
+  keywords   = {communication devices, fmamp, fma, kamp},
   publisher  = {American Speech Language Hearing Association},
   url        = {http://dx.doi.org/10.1044/2015_ajslp-15-0008},
 }
@@ -2360,8 +2360,14 @@ Results indicate that intelligibility testing can be employed to evaluate dysart
   publisher  = {Wiley Online Library},
 }
 
-@phdthesis{styler2015,
-	Abstract = {Although much is known about the linguistic function of vowel nasality, either contrastive (as in French) or coarticulatory (as in English), less is known about its perception. This study uses careful examination of production patterns, along with data from both machine learning and human listeners to establish which acoustical features are useful (and used) for identifying vowel nasality.
+@PhdThesis{styler2015,
+  author   = {Styler, Will},
+  school   = {University of Colorado at Boulder},
+  title    = {On the Acoustical and Perceptual Features of Vowel Nasality},
+  year     = {2015},
+  month    = {March},
+  note     = {Has a really good brief overview of LMER, as well as example of code},
+  abstract = {Although much is known about the linguistic function of vowel nasality, either contrastive (as in French) or coarticulatory (as in English), less is known about its perception. This study uses careful examination of production patterns, along with data from both machine learning and human listeners to establish which acoustical features are useful (and used) for identifying vowel nasality.
 
 A corpus of 4,778 oral and nasal or nasalized vowels in English and French was collected, and feature data for 29 potential perceptual features was extracted. A series of Linear Mixed-Effects Regressions showed 7 promising features with large oral-to-nasal feature differences, and highlighted some cross-linguistic differences in the relative importance of these features.
 
@@ -2369,15 +2375,9 @@ Two machine learning algorithms, Support Vector Machines and RandomForests, were
 
 These four features were manipulated in vowels in oral and nasal contexts in English, adding nasal features to oral vowels and reducing nasal features in nasalized vowels, in an attempt to influence oral/nasal classification. These stimuli were presented to native English listeners in a lexical choice task with phoneme masking, measuring oral/nasal classification accuracy and reaction time. Only modifications to vowel formant structure caused any perceptual change for listeners, resulting in increased reaction times, as well as increased oral/nasal confusion in the oral-to-nasal (feature addition) stimuli. Classification of already-nasal vowels was not affected by any modifications, suggesting a perceptual role for other acoustical characteristics alongside nasality-specific cues. A Support Vector Machine trained on the same stimuli showed a similar pattern of sensitivity to the experimental modifications.
 
-Thus, based on both the machine learning and human perception results, formant structure, particularly F1 bandwidth, appears to be the primary cue to the perception of nasality in English. This close relationship of nasal- and oral-cavity derived acoustical cues leads to a strong perceptual role for both the oral and nasal aspects of nasal vowels.
-},
-	Author = {Styler, Will},
-	Keywords = {stats},
-	Month = {March},
-	Note = {Has a really good brief overview of LMER, as well as example of code},
-	School = {University of Colorado at Boulder},
-	Title = {On the Acoustical and Perceptual Features of Vowel Nasality},
-	Year = {2015}}
+Thus, based on both the machine learning and human perception results, formant structure, particularly F1 bandwidth, appears to be the primary cue to the perception of nasality in English. This close relationship of nasal- and oral-cavity derived acoustical cues leads to a strong perceptual role for both the oral and nasal aspects of nasal vowels.},
+  keywords = {stats},
+}
 
 @article{kleinow2001,
 	Author = {Kleinow, Jennifer and Smith, Anne and Ramig, Lorraine Olson},
@@ -10778,12 +10778,13 @@ cross validation. The dataset used for method development and evaluation consist
 	Volume = {86},
 	Year = {1972}}
 
-@mastersthesis{bertrand2009,
-	Author = {Bertrand, Amber Nicole},
-	Keywords = {fma, communication devices},
-	School = {Texas A\&M University-Kingsville},
-	Title = {Speech-language pathologists decision making pertaining to speech amplification devices: A survey},
-	Year = {2009}}
+@MastersThesis{bertrand2009,
+  author   = {Bertrand, Amber Nicole},
+  school   = {Texas A\&M University-Kingsville},
+  title    = {Speech-language pathologists decision making pertaining to speech amplification devices: A survey},
+  year     = {2009},
+  keywords = {fma, communication devices, kamp},
+}
 
 @book{dab1975,
 	Author = {Darley, Frederic L. and Aronson, Arnold Elvin and Brown, Joe Robert},
@@ -11774,19 +11775,20 @@ cross validation. The dataset used for method development and evaluation consist
 	Title = {Speech intelligibility in class and alleviation of teachers' vocal abuse by sound field amplification in elementary schools},
 	Year = {2009}}
 
-@article{iddon2015,
-	Author = {Iddon, Hannah and Read, Jennifer and Miller, Nick},
-	Doi = {https://doi.org/10.12968/ijtr.2015.22.10.479},
-	Journal = {International Journal of Therapy and Rehabilitation},
-	Keywords = {communication devices},
-	Note = {synthetically amplified},
-	Number = {10},
-	Pages = {479--486},
-	Publisher = {MA Healthcare London},
-	Title = {Does voice amplification increase intelligibility in people with {P}arkinson's disease?},
-	Volume = {22},
-	Year = {2015},
-	Bdsk-Url-1 = {https://doi.org/10.12968/ijtr.2015.22.10.479}}
+@Article{iddon2015,
+  author     = {Iddon, Hannah and Read, Jennifer and Miller, Nick},
+  journal    = {International Journal of Therapy and Rehabilitation},
+  title      = {Does voice amplification increase intelligibility in people with {P}arkinson's disease?},
+  year       = {2015},
+  note       = {synthetically amplified},
+  number     = {10},
+  pages      = {479--486},
+  volume     = {22},
+  bdsk-url-1 = {https://doi.org/10.12968/ijtr.2015.22.10.479},
+  doi        = {https://doi.org/10.12968/ijtr.2015.22.10.479},
+  keywords   = {communication devices, kamp, fma},
+  publisher  = {MA Healthcare London},
+}
 
 @article{barber2016,
 	Author = {Barber, Camilla Louise},
@@ -11832,16 +11834,17 @@ cross validation. The dataset used for method development and evaluation consist
 	Year = {2015},
 	Bdsk-Url-1 = {http://www.harlmemphis.org/files/9814/2593/1864/XuAAS2015_PSAPs.pdf}}
 
-@unpublished{breitbart2014,
-	Annote = {- PSAPs were in-the-ear PSAPs; look more like hearing aids - see also Xu2015; poster on the same project -},
-	Author = {Danielle Breitbart},
-	Keywords = {communication devices},
-	Location = {University of Memphis},
-	Note = {Slides for AuD Research Project, 2014},
-	Title = {Is there a preference between Hearing Aids and Personal Sound Amplification Products (PSAPs)?},
-	Url = {http://www.blog-audioprothesiste.fr/wp-content/uploads/2016/03/Breitbart2014.pdf},
-	Year = {2015},
-	Bdsk-Url-1 = {http://www.blog-audioprothesiste.fr/wp-content/uploads/2016/03/Breitbart2014.pdf}}
+@Unpublished{breitbart2014,
+  author     = {Danielle Breitbart},
+  note       = {Slides for AuD Research Project, 2014},
+  title      = {Is there a preference between Hearing Aids and Personal Sound Amplification Products (PSAPs)?},
+  year       = {2015},
+  annote     = {- PSAPs were in-the-ear PSAPs; look more like hearing aids - see also Xu2015; poster on the same project -},
+  bdsk-url-1 = {http://www.blog-audioprothesiste.fr/wp-content/uploads/2016/03/Breitbart2014.pdf},
+  keywords   = {communication devices, kamp},
+  location   = {University of Memphis},
+  url        = {http://www.blog-audioprothesiste.fr/wp-content/uploads/2016/03/Breitbart2014.pdf},
+}
 
 @article{joy2018,
 	Author = {Joy, Neethu Mariam and Umesh, S and Abraham, Basil},
@@ -13056,19 +13059,17 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{doi:10.1080/23273798.2019.1589541,
   author    = {Elaine Kearney and Frank H. Guenther},
-  title     = {Articulating: the neural mechanisms of speech production},
   journal   = {Language, Cognition and Neuroscience},
+  title     = {Articulating: the neural mechanisms of speech production},
   year      = {2019},
-  volume    = {0},
   number    = {0},
   pages     = {1-16},
+  volume    = {0},
   doi       = {10.1080/23273798.2019.1589541},
   eprint    = {https://doi.org/10.1080/23273798.2019.1589541},
   keywords  = {read me!},
   publisher = {Routledge},
-  url       = { https://doi.org/10.1080/23273798.2019.1589541
-
-},
+  url       = {https://doi.org/10.1080/23273798.2019.1589541},
 }
 
 @Article{dejong2009,
@@ -13578,13 +13579,13 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{gaballah2019,
   author   = {A. {Gaballah} and V. {Parsa} and M. {Andreetta} and S. {Adams}},
-  title    = {Objective and Subjective Speech Quality Assessment of Amplification Devices for Patients with {P}arkinson's Disease},
   journal  = {IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  title    = {Objective and Subjective Speech Quality Assessment of Amplification Devices for Patients with {P}arkinson's Disease},
   year     = {2019},
-  pages    = {1-1},
   issn     = {1534-4320},
+  pages    = {1-1},
   doi      = {10.1109/TNSRE.2019.2915172},
-  keywords = {Noise measurement;Performance evaluation;Feature extraction;Correlation;Auditory system;Quality assessment;Cepstral analysis, voice quality, speech amplification, fmamp, fma},
+  keywords = {Noise measurement;Performance evaluation;Feature extraction;Correlation;Auditory system;Quality assessment;Cepstral analysis, voice quality, speech amplification, fmamp, fma, kamp},
 }
 
 @Article{mclaughlin2019variations,
@@ -13706,17 +13707,17 @@ Both individuals with PD and controls used increased duration as a means of enha
 }
 
 @Book{hardy1983,
-  title         = {Cerebral Palsy},
-  publisher     = {Englewood Cliffs, N.J. : Prentice-Hall},
-  year          = {1983},
   author        = {Hardy, James},
+  publisher     = {Englewood Cliffs, N.J. : Prentice-Hall},
+  title         = {Cerebral Palsy},
+  year          = {1983},
   isbn          = {013122820X},
   note          = {Includes index},
-  catalogue-url = { https://trove.nla.gov.au/work/26979093 },
+  catalogue-url = {https://trove.nla.gov.au/work/26979093},
   comment       = {- suggests that slow speech gives time for more precise articulatory movements},
   keywords      = {rate},
   language      = {English},
-  subjects      = { Language Disorders; Language Therapy; Infirmité motrice cérébrale; Communication, Troubles de la; Cerebral palsy; Communicative disorders; Cerebral Palsy -- therapy; Cerebral palsy -- Therapy; Cerebral palsy -- In infancy & childhood; Cerebral Palsy; Infant; Child },
+  subjects      = {Language Disorders; Language Therapy; Infirmité motrice cérébrale; Communication, Troubles de la; Cerebral palsy; Communicative disorders; Cerebral Palsy -- therapy; Cerebral palsy -- Therapy; Cerebral palsy -- In infancy & childhood; Cerebral Palsy; Infant; Child},
   type          = {Book; Book/Illustrated},
 }
 
@@ -14642,13 +14643,13 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{patel2013,
   author    = {Patel, Rupal and Connaghan, Kathryn P and Campellone, Pamela J},
-  title     = {The effect of rate reduction on signaling prosodic contrasts in dysarthria},
   journal   = {Folia Phoniatrica et Logopaedica},
+  title     = {The effect of rate reduction on signaling prosodic contrasts in dysarthria},
   year      = {2013},
-  volume    = {65},
   number    = {3},
   pages     = {109--116},
-  keywords  = {prominence, prosody, rate reduction},
+  volume    = {65},
+  keywords  = {prominence, prosody, rate reduction, caspd},
   publisher = {Karger Publishers},
 }
 
@@ -15448,13 +15449,13 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{nabelek1986,
   author   = {N{\'a}b{\u{e}}lek, AK and Donahue, AM and Letowski, TR},
-  title    = {Comparison of amplification systems in a classroom.},
   journal  = {Journal of Rehabilitation Research and Development},
+  title    = {Comparison of amplification systems in a classroom.},
   year     = {1986},
-  volume   = {23},
   number   = {1},
   pages    = {41--52},
-  keywords = {fmamp, fma},
+  volume   = {23},
+  keywords = {fmamp, fma, kamp},
 }
 
 @Article{abur2019,
@@ -15628,11 +15629,12 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{hartelius1997,
   author    = {Hartelius, L and Wising, C and Nord, L},
-  title     = {Speech modification in dysarthria associated with multiple sclerosis: An intervention based on vocal efficiency, contrastive stress, and verbal repair strategies},
   journal   = {Journal of Medical Speech Language Pathology},
+  title     = {Speech modification in dysarthria associated with multiple sclerosis: An intervention based on vocal efficiency, contrastive stress, and verbal repair strategies},
   year      = {1997},
-  volume    = {5},
   pages     = {113--140},
+  volume    = {5},
+  comment   = {See summary of this paper: https://clinicalprosody.wordpress.com/2013/02/20/hartelius-et-al-1997/},
   keywords  = {caspd},
   publisher = {SINGULAR PUBLISHING GROUP, INC.},
 }
@@ -15808,6 +15810,218 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Acoustical Society of America},
 }
 
+@Article{lowit2010,
+  author   = {Lowit, Anja and Kuschmann, Anja and MacLeod, Joanne M and Schaeffler, Felix and Mennen, Ineke},
+  title    = {Sentence stress in ataxic dysarthria: a perceptual and acoustic study},
+  journal  = {Journal of Medical Speech Language Pathology},
+  year     = {2010},
+  volume   = {18},
+  number   = {4},
+  pages    = {77--82},
+  keywords = {caspd},
+}
+
+@Article{patel2004,
+  author    = {Patel, Rupal},
+  journal   = {Journal of Medical Speech-Language Pathology},
+  title     = {The acoustics of contrastive prosody in adults with cerebral palsy},
+  year      = {2004},
+  number    = {4},
+  pages     = {189--193},
+  volume    = {12},
+  keywords  = {caspd},
+  publisher = {Delmar Learning},
+}
+
+@Article{patel2012relationship,
+  author    = {Patel, Rupal and Hustad, Katherine C and Connaghan, Kathryn P and Furr, William},
+  journal   = {Journal of medical speech-language pathology},
+  title     = {Relationship between prosody and intelligibility in children with dysarthria},
+  year      = {2012},
+  number    = {4},
+  volume    = {20},
+  keywords  = {intelligibility, caspd},
+  publisher = {NIH Public Access},
+}
+
+@Book{who2001,
+  author    = {Organisation mondiale de la sant{\'e} and World Health Organization and World Health Organization Staff},
+  publisher = {World Health Organization},
+  title     = {International classification of functioning, disability and health: {ICF}},
+  year      = {2001},
+}
+
+@Article{duff2008,
+  author    = {Duff, Melissa C and Hengst, Julie A and Tranel, Daniel and Cohen, Neal J},
+  journal   = {Brain and language},
+  title     = {Collaborative discourse facilitates efficient communication and new learning in amnesia},
+  year      = {2008},
+  number    = {1},
+  pages     = {41--54},
+  volume    = {106},
+  comment   = {Good references and lit review of barrier game tasks},
+  keywords  = {caspd; barrier game},
+  publisher = {Elsevier},
+}
+
+@Book{clark1992,
+  author    = {Clark, Herbert H},
+  publisher = {University of Chicago Press},
+  title     = {Arenas of language use},
+  year      = {1992},
+  comment   = {Major landmark book for barrier game introduction, albeit in the context of discourse and reference. 
+
+From duff2008: "In sharp contrast to studies designed to isolate production of morpho-syntactic form, early studies of collaborative referential communication were designed to follow the way speakers adjusted and modified their utterances over time in response to changes in the listeners’ knowledge and social roles (Clark, 1992; Yule, 1997). Methodologically, these studies employed a controlled referential task, or a “barrier task.” Originally devised and used by Krauss and colleagues (Krauss & Glucksberg, 1969, 1977; Krauss & Weinheimer, 1964, 1967), barrier tasks allow for elicitation of participants’ spontaneous and unscripted conversational language. Conventionally, barrier tasks consist of two people sitting across from one another while their view of the other is completely obscured. "},
+  keywords  = {caspd},
+}
+
+@Article{pell2005,
+  author    = {Pell, Marc D and Cheang, Henry S and Leonard, Carol L},
+  journal   = {Brain and language},
+  title     = {The impact of Parkinson’s disease on vocal-prosodic communication from the perspective of listeners},
+  year      = {2005},
+  number    = {2},
+  pages     = {123--134},
+  volume    = {97},
+  keywords  = {caspd},
+  publisher = {Elsevier},
+}
+
+@Article{baylor2013,
+  author    = {Baylor, Carolyn and Yorkston, Kathryn and Eadie, Tanya and Kim, Jiseon and Chung, Hyewon and Amtmann, Dagmar},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {{The Communicative Participation Item Bank (CPIB): Item bank calibration and development of a disorder-generic short form}},
+  year      = {2013},
+  publisher = {ASHA},
+}
+
+@Article{patel2013caterpillar,
+  author    = {Patel, Rupal and Connaghan, Kathryn and Franco, Diana and Edsall, Erika and Forgit, Dory and Olsen, Laura and Ramage, Lianna and Tyler, Emily and Russell, Scott},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {{“The Caterpillar”}: A novel reading passage for assessment of motor speech disorders},
+  year      = {2013},
+  publisher = {ASHA},
+}
+
+@Article{hengst2003,
+  author    = {Hengst, Julie A},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {Collaborative referencing between individuals with aphasia and routine communication partners},
+  year      = {2003},
+  keywords  = {caspd, barrier task},
+  publisher = {ASHA},
+}
+
+@Article{levy2014,
+  author    = {Levy, Erika S},
+  journal   = {International Journal of Speech-Language Pathology},
+  title     = {Implementing two treatment approaches to childhood dysarthria},
+  year      = {2014},
+  number    = {4},
+  pages     = {344--354},
+  volume    = {16},
+  keywords  = {caspd, barrier task},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{lansford2016crowdsourcing,
+  author    = {Lansford, Kaitlin L and Borrie, Stephanie A and Bystricky, Lukas},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {Use of crowdsourcing to assess the ecological validity of perceptual-training paradigms in dysarthria},
+  year      = {2016},
+  number    = {2},
+  pages     = {233--239},
+  volume    = {25},
+  keywords  = {crowdsourcing},
+  publisher = {ASHA},
+}
+
+@Article{byun2015crowdsourcing,
+  author    = {Byun, Tara McAllister and Halpin, Peter F and Szeredi, Daniel},
+  journal   = {Journal of communication disorders},
+  title     = {Online crowdsourcing for efficient rating of speech: A validation study},
+  year      = {2015},
+  pages     = {70--83},
+  volume    = {53},
+  keywords  = {crowdsourcing},
+  publisher = {Elsevier},
+}
+
+@MastersThesis{wilding2010,
+  author    = {Wilding, Phillipa Jane},
+  school    = {University of Canterbury},
+  title     = {Speech Understanding Abilities of Older Adults with Sensorineural Hearing Loss},
+  year      = {2010},
+  keywords  = {kamp, aging, voice, listener effort},
+  publisher = {University of Canterbury. Department of Communication Disorders},
+}
+
+@Article{fletcher2019,
+  author    = {Fletcher, Annalise R and Risi, Rebecca A and Wisler, Alan and McAuliffe, Megan J},
+  journal   = {Folia Phoniatrica et Logopaedica},
+  title     = {Examining Listener Reaction Time in the Perceptual Assessment of Dysarthria},
+  year      = {2019},
+  number    = {5-6},
+  pages     = {297--308},
+  volume    = {71},
+  publisher = {Karger Publishers},
+}
+
+@Article{kuk1992,
+  author   = {Kuk, F},
+  journal  = {Otolaryngology-Head and neck Surgery},
+  title    = {Amplification devices for the hearing impaired individuals},
+  year     = {1992},
+  pages    = {3127--3141},
+  volume   = {4},
+  keywords = {kamp},
+}
+
+@Article{zazove1992,
+  author   = {Zazove, P and Kileny, PR},
+  journal  = {American family physician},
+  title    = {Devices for the hearing impaired.},
+  year     = {1992},
+  number   = {3},
+  pages    = {851--858},
+  volume   = {46},
+  keywords = {kamp},
+}
+
+@Article{dempsey1994,
+  author    = {Dempsey, James J and Ross, Mark},
+  journal   = {American journal of audiology},
+  title     = {Evaluation of hardwire personal assistive listening devices},
+  year      = {1994},
+  number    = {2},
+  pages     = {71--77},
+  volume    = {3},
+  keywords  = {kamp},
+  publisher = {ASHA},
+}
+
+@Article{cho2015,
+  author    = {Cho, Taehong},
+  journal   = {The handbook of speech production},
+  title     = {Language effects on timing at the segmental and suprasegmental levels},
+  year      = {2015},
+  pages     = {505--529},
+  keywords  = {caspd},
+  publisher = {Wiley Online Library},
+}
+
+@InProceedings{hosom2003,
+  author       = {Hosom, {J-P} and Kain, Alexander B and Mishra, Taniya and Van Santen, Jan PH and Fried-Oken, Melanie and Staehely, Janice},
+  booktitle    = {2003 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2003. Proceedings.(ICASSP'03).},
+  title        = {Intelligibility of modifications to dysarthric speech},
+  year         = {2003},
+  organization = {IEEE},
+  pages        = {I--I},
+  volume       = {1},
+  comment      = {"thus, a speech transformation system should not address only those parts of speech containing formants." - plug for importance of consonants in intelligibility},
+  keywords     = {intelligibility predictor, consonants},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -15829,7 +16043,7 @@ Both individuals with PD and controls used increased duration as a means of enha
 1 KeywordGroup:Cognition in PD\;0\;keywords\;cognitive screening\;0\;0\;0\;\;\;\;;
 2 KeywordGroup:DRS\;0\;keywords\;drs\;0\;0\;1\;\;\;\;;
 2 KeywordGroup:MoCA\;0\;keywords\;moca\;0\;0\;1\;\;\;\;;
-1 KeywordGroup:Normal aging & speech changes\;0\;keywords\;aging\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Normal aging & speech changes\;0\;keywords\;aging\;0\;0\;0\;\;\;\;;
 1 KeywordGroup:Predictors of intelligibility\;0\;keywords\;intelligibility predictor\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Acoustic distinctiveness\;0\;keywords\;acoustic distinctiveness\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Communication Devices\;0\;keywords\;communication devices\;0\;0\;1\;\;\;\;;
@@ -15849,6 +16063,7 @@ Both individuals with PD and controls used increased duration as a means of enha
 1 KeywordGroup:R Packages\;0\;keywords\;r package\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Radi discussion new\;0\;keywords\;radi discussion\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:fma\;0\;keywords\;fma\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:kamp\;0\;keywords\;kamp\;0\;0\;1\;0x8a8a8aff\;\;\;;
 }
 
 @Comment{jabref-meta: groupsversion:
