@@ -15845,7 +15845,7 @@ Both individuals with PD and controls used increased duration as a means of enha
 }
 
 @Book{who2001,
-  author    = {Organisation mondiale de la sant{\'e} and World Health Organization and World Health Organization Staff},
+  author    = {World Health Organization},
   publisher = {World Health Organization},
   title     = {International classification of functioning, disability and health: {ICF}},
   year      = {2001},
@@ -16042,6 +16042,84 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   pages     = {3426--3440},
   volume    = {60},
   publisher = {ASHA},
+}
+
+@InCollection{terken2000,
+  author    = {Terken, Jacques and Hermes, Dik},
+  booktitle = {Prosody: Theory and experiment},
+  publisher = {Springer},
+  title     = {The perception of prosodic prominence},
+  year      = {2000},
+  pages     = {89--127},
+  keywords  = {caspd},
+}
+
+@PhdThesis{moon2005,
+  author   = {Moon, {Bon-Hi}},
+  school   = {University of Western Ontario},
+  title    = {Effects of Background Noise, Listener Context, Speech Task, and Requests for Clarification on Speech Intensity in {P}arkinson's Disease},
+  year     = {2005},
+  keywords = {caspd},
+}
+
+@InProceedings{perillo2015,
+  author       = {Perillo, Sara and Bang, {Hye-Young} and Clayards, Meghan},
+  booktitle    = {Proceedings of Meetings on Acoustics 170ASA},
+  title        = {Locus equation metrics as an index of coarticulation resistance: The effect of prosodic prominence},
+  year         = {2015},
+  number       = {1},
+  organization = {Acoustical Society of America},
+  pages        = {060007},
+  volume       = {25},
+  keywords     = {caspd},
+}
+
+@Article{whitfield2018,
+  author    = {Whitfield, Jason A and Reif, Angela and Goberman, Alexander M},
+  journal   = {Clinical Linguistics \& Phonetics},
+  title     = {Voicing contrast of stop consonant production in the speech of individuals with Parkinson disease {ON and OFF} dopaminergic medication},
+  year      = {2018},
+  number    = {7},
+  pages     = {587--594},
+  volume    = {32},
+  keywords  = {acoustic distinctiveness},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{cole2007,
+  author    = {Cole, Jennifer and Kim, Heejin and Choi, Hansook and Hasegawa-Johnson, Mark},
+  journal   = {Journal of Phonetics},
+  title     = {Prosodic effects on acoustic cues to stop voicing and place of articulation: Evidence from {Radio News} speech},
+  year      = {2007},
+  number    = {2},
+  pages     = {180--209},
+  volume    = {35},
+  keywords  = {prominence},
+  publisher = {Elsevier},
+}
+
+@Article{cho2009,
+  author    = {Cho, Taehong and Keating, Patricia},
+  journal   = {Journal of Phonetics},
+  title     = {Effects of initial position versus prominence in {E}nglish},
+  year      = {2009},
+  number    = {4},
+  pages     = {466--485},
+  volume    = {37},
+  keywords  = {prominence},
+  publisher = {Elsevier},
+}
+
+@Article{allison2020,
+  author    = {Allison, Kristen M and Salehi, Sina and Green, Jordan R},
+  journal   = {The Journal of the Acoustical Society of America},
+  title     = {Effect of prosodic manipulation on articulatory kinematics and second formant trajectories in children},
+  year      = {2020},
+  number    = {2},
+  pages     = {769--776},
+  volume    = {147},
+  keywords  = {caspd, read me!, prominence},
+  publisher = {Acoustical Society of America},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

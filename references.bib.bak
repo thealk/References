@@ -15845,7 +15845,7 @@ Both individuals with PD and controls used increased duration as a means of enha
 }
 
 @Book{who2001,
-  author    = {Organisation mondiale de la sant{\'e} and World Health Organization and World Health Organization Staff},
+  author    = {World Health Organization},
   publisher = {World Health Organization},
   title     = {International classification of functioning, disability and health: {ICF}},
   year      = {2001},
@@ -16020,6 +16020,94 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   volume       = {1},
   comment      = {"thus, a speech transformation system should not address only those parts of speech containing formants." - plug for importance of consonants in intelligibility},
   keywords     = {intelligibility predictor, consonants},
+}
+
+@Article{allison2019shorter,
+  author    = {Allison, Kristen M and Yunusova, Yana and Green, Jordan R},
+  journal   = {American journal of speech-language pathology},
+  title     = {Shorter sentence length maximizes intelligibility and speech motor performance in persons with dysarthria due to amyotrophic lateral sclerosis},
+  year      = {2019},
+  number    = {1},
+  pages     = {96--107},
+  volume    = {28},
+  publisher = {ASHA},
+}
+
+@Article{kearney2017,
+  author    = {Kearney, Elaine and Giles, Renuka and Haworth, Brandon and Faloutsos, Petros and Baljko, Melanie and Yunusova, Yana},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {Sentence-level movements in Parkinson's disease: Loud, clear, and slow speech},
+  year      = {2017},
+  number    = {12},
+  pages     = {3426--3440},
+  volume    = {60},
+  publisher = {ASHA},
+}
+
+@InCollection{terken2000,
+  author    = {Terken, Jacques and Hermes, Dik},
+  booktitle = {Prosody: Theory and experiment},
+  publisher = {Springer},
+  title     = {The perception of prosodic prominence},
+  year      = {2000},
+  pages     = {89--127},
+  keywords  = {caspd},
+}
+
+@PhdThesis{moon2005,
+  author   = {Moon, {Bon-Hi}},
+  school   = {University of Western Ontario},
+  title    = {Effects of Background Noise, Listener Context, Speech Task, and Requests for Clarification on Speech Intensity in {P}arkinson's Disease},
+  year     = {2005},
+  keywords = {caspd},
+}
+
+@InProceedings{perillo2015,
+  author       = {Perillo, Sara and Bang, {Hye-Young} and Clayards, Meghan},
+  booktitle    = {Proceedings of Meetings on Acoustics 170ASA},
+  title        = {Locus equation metrics as an index of coarticulation resistance: The effect of prosodic prominence},
+  year         = {2015},
+  number       = {1},
+  organization = {Acoustical Society of America},
+  pages        = {060007},
+  volume       = {25},
+  keywords     = {caspd},
+}
+
+@Article{whitfield2018,
+  author    = {Whitfield, Jason A and Reif, Angela and Goberman, Alexander M},
+  journal   = {Clinical Linguistics \& Phonetics},
+  title     = {Voicing contrast of stop consonant production in the speech of individuals with Parkinson disease {ON and OFF} dopaminergic medication},
+  year      = {2018},
+  number    = {7},
+  pages     = {587--594},
+  volume    = {32},
+  keywords  = {acoustic distinctiveness},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{cole2007,
+  author    = {Cole, Jennifer and Kim, Heejin and Choi, Hansook and Hasegawa-Johnson, Mark},
+  journal   = {Journal of Phonetics},
+  title     = {Prosodic effects on acoustic cues to stop voicing and place of articulation: Evidence from {Radio News} speech},
+  year      = {2007},
+  number    = {2},
+  pages     = {180--209},
+  volume    = {35},
+  keywords  = {prominence},
+  publisher = {Elsevier},
+}
+
+@Article{cho2009,
+  author    = {Cho, Taehong and Keating, Patricia},
+  journal   = {Journal of Phonetics},
+  title     = {Effects of initial position versus prominence in {E}nglish},
+  year      = {2009},
+  number    = {4},
+  pages     = {466--485},
+  volume    = {37},
+  keywords  = {prominence},
+  publisher = {Elsevier},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
