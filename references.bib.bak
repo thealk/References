@@ -16376,18 +16376,6 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   publisher = {SAGE Publications Sage UK: London, England},
 }
 
-@Article{lam2010,
-  author    = {Lam, Tuan Q and Watson, Duane G},
-  journal   = {Memory \& cognition},
-  title     = {Repetition is easy: Why repeated referents have reduced prominence},
-  year      = {2010},
-  number    = {8},
-  pages     = {1137--1146},
-  volume    = {38},
-  keywords  = {caspd, prominence, redundancy, repetition},
-  publisher = {Springer},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

@@ -10689,13 +10689,12 @@ cross validation. The dataset used for method development and evaluation consist
 
 @Article{tjaden2017,
   author    = {Tjaden, Kris and Martel-Sauvageau, Vincent},
-  journal   = {American Journal of Speech-Language Pathology},
   title     = {Consonant Acoustics in {P}arkinson's Disease and Multiple Sclerosis: Comparison of Clear and Loud Speaking Conditions},
+  journal   = {American Journal of Speech-Language Pathology},
   year      = {2017},
+  volume    = {26},
   number    = {2S},
   pages     = {569--582},
-  volume    = {26},
-  doi       = {10.1044/2017_ajslp-16-0090},
   keywords  = {read me!, motorspeech2016, motor speech},
   publisher = {ASHA},
 }
@@ -16363,6 +16362,30 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   year    = {1994},
   pages   = {535--556},
   volume  = {37},
+}
+
+@Article{aylett2004,
+  author    = {Aylett, Matthew and Turk, Alice},
+  journal   = {Language and speech},
+  title     = {The smooth signal redundancy hypothesis: A functional explanation for relationships between redundancy, prosodic prominence, and duration in spontaneous speech},
+  year      = {2004},
+  number    = {1},
+  pages     = {31--56},
+  volume    = {47},
+  keywords  = {caspd, prominence, redundancy},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{lam2010,
+  author    = {Lam, Tuan Q and Watson, Duane G},
+  journal   = {Memory \& cognition},
+  title     = {Repetition is easy: Why repeated referents have reduced prominence},
+  year      = {2010},
+  number    = {8},
+  pages     = {1137--1146},
+  volume    = {38},
+  keywords  = {caspd, prominence, redundancy, repetition},
+  publisher = {Springer},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
