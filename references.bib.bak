@@ -14399,15 +14399,15 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{kessinger1998,
   author    = {Rachel H. Kessinger and Sheila E. Blumstein},
-  title     = {Effects of speaking rate on voice-onset time and vowel production: Some implications for perception studies},
   journal   = {Journal of Phonetics},
+  title     = {Effects of speaking rate on voice-onset time and vowel production: Some implications for perception studies},
   year      = {1998},
-  volume    = {26},
+  month     = {apr},
   number    = {2},
   pages     = {117--128},
-  month     = {apr},
+  volume    = {26},
   doi       = {10.1006/jpho.1997.0069},
-  keywords  = {vot},
+  keywords  = {vot, healthy speech rate},
   publisher = {Elsevier},
 }
 
@@ -16419,9 +16419,43 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   year     = {2015},
   pages    = {291 -- 299},
   volume   = {5},
-  comment  = {Main idea: How does prosody differ across: 1) group: PD with mild dysarthria, PD with mod-severe dysarthria, healthy controls 2) speech task: sentence reading, passage reading, monologue? What acoustic measures are most informative: F0, intensity, speech rate? What is the effect of prosodic variation on intelligibility in PD? Findings: No effect of prosody on intell; group x task interaction effects on F0, intensity},
+  comment  = {Main idea: How does prosody differ across: 1) group: PD with mild dysarthria, PD with mod-severe dysarthria, healthy controls 2) speech task: sentence reading, passage reading, monologue? What acoustic measures are most informative: F0, intensity, speech rate? What is the effect of prosodic variation on intelligibility in PD? Findings: No effect of prosody on intell; group x task interaction effects on F0, intensity.},
   doi      = {10.3233/JPD-140451},
   keywords = {caspd},
+}
+
+@InProceedings{docherty2011,
+  author    = {Docherty, Gerard and Watt, Dominic and Llamas, Carmen and Hall, Damien and Nycz, Jennifer},
+  booktitle = {{ICPhS}},
+  title     = {Variation in Voice Onset Time along the {Scottish-English} Border},
+  year      = {2011},
+  pages     = {591--594},
+  keywords  = {vot, aging, heathy speech rate},
+}
+
+@Article{Baum1993,
+  author    = {Baum, Shari R and Ryan, Laurie},
+  journal   = {Brain and Language},
+  title     = {Rate of speech effects in aphasia: voice onset time},
+  year      = {1993},
+  number    = {4},
+  pages     = {431--445},
+  volume    = {44},
+  doi       = {10.1006/brln.1993.1026},
+  keywords  = {vot, speech rate},
+  publisher = {Elsevier},
+}
+
+@Article{pind1995,
+  author    = {Pind, J{\"o}rgen},
+  journal   = {Perception \& Psychophysics},
+  title     = {Speaking rate, voice-onset time, and quantity: The search for higher-order invariants for two Icelandic speech cues},
+  year      = {1995},
+  number    = {3},
+  pages     = {291--304},
+  volume    = {57},
+  keywords  = {vot, healthy speech rate},
+  publisher = {Springer},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
