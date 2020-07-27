@@ -724,24 +724,25 @@ Results indicate that intelligibility testing can be employed to evaluate dysart
   url        = {http://www.ncbi.nlm.nih.gov/pubmed/1393519},
 }
 
-@article{fischer2010,
-	Abstract = {Research has found that speaking rate has an effect on voice onset time (VOT). Given that Parkinson disease (PD) affects speaking rate, the purpose of this study was to examine VOT with the effect of rate removed (VOT ratio), along with the traditional VOT measure, in individuals with PD. VOT and VOT ratio were examined in 9 individuals with PD (before and after taking medication), along with 9 matched controls. Place of articulation and vowel height had significant effects on VOT and VOT ratio for all groups, and there were no PD versus control differences. PD medication had a greater effect on VOT than VOT ratio, reflecting a rate-related VOT change rather than a pure VOT change. These data support the usefulness of examining both VOT and VOT ratio with individuals with PD, as this allows for dissociation between rate-related VOT changes and true VOT changes.},
-	Author = {Emily Fischer and Alexander M. Goberman},
-	Day = {11},
-	Doi = {10.1016/j.jcomdis.2009.07.004},
-	Issn = {1873-7994},
-	Journal = {Journal of Communication Disorders},
-	Keywords = {Aged, Aged, 80 and over, Antiparkinson Agents, Biomechanical Phenomena, Dysarthria, Female, Humans, Male, Middle Aged, Mouth, Parkinson Disease, Phonetics, Reproducibility of Results, Severity of Illness Index, Speech, Time Factors, Voice, rate},
-	Month = {Feb},
-	Number = {1},
-	Pages = {21--34},
-	Publisher = {Elsevier {BV}},
-	Title = {Voice Onset Time in {P}arkinson Disease.},
-	Url = {http://www.ncbi.nlm.nih.gov/pubmed/19717164},
-	Volume = {43},
-	Year = {2010},
-	Bdsk-Url-1 = {http://www.ncbi.nlm.nih.gov/pubmed/19717164},
-	Bdsk-Url-2 = {https://doi.org/10.1016/j.jcomdis.2009.07.004}}
+@Article{fischer2010,
+  author     = {Emily Fischer and Alexander M. Goberman},
+  journal    = {Journal of Communication Disorders},
+  title      = {Voice Onset Time in {P}arkinson Disease.},
+  year       = {2010},
+  issn       = {1873-7994},
+  month      = {Feb},
+  number     = {1},
+  pages      = {21--34},
+  volume     = {43},
+  abstract   = {Research has found that speaking rate has an effect on voice onset time (VOT). Given that Parkinson disease (PD) affects speaking rate, the purpose of this study was to examine VOT with the effect of rate removed (VOT ratio), along with the traditional VOT measure, in individuals with PD. VOT and VOT ratio were examined in 9 individuals with PD (before and after taking medication), along with 9 matched controls. Place of articulation and vowel height had significant effects on VOT and VOT ratio for all groups, and there were no PD versus control differences. PD medication had a greater effect on VOT than VOT ratio, reflecting a rate-related VOT change rather than a pure VOT change. These data support the usefulness of examining both VOT and VOT ratio with individuals with PD, as this allows for dissociation between rate-related VOT changes and true VOT changes.},
+  bdsk-url-1 = {http://www.ncbi.nlm.nih.gov/pubmed/19717164},
+  bdsk-url-2 = {https://doi.org/10.1016/j.jcomdis.2009.07.004},
+  day        = {11},
+  doi        = {10.1016/j.jcomdis.2009.07.004},
+  keywords   = {Aged, 80 and over, Antiparkinson Agents, Biomechanical Phenomena, Dysarthria, Female, Humans, Male, Middle Aged, Mouth, Parkinson Disease, Phonetics, Reproducibility of Results, Severity of Illness Index, Speech, Time Factors, Voice, rate, radi_stops},
+  publisher  = {Elsevier {BV}},
+  url        = {http://www.ncbi.nlm.nih.gov/pubmed/19717164},
+}
 
 @article{chenausky2011,
 	Abstract = {According to the U.S. National Institutes of Health, approximately 500,000 Americans have Parkinson's disease (PD), with roughly another 50,000 receiving new diagnoses each year. 70\%-90\% of these people also have the hypokinetic dysarthria associated with PD. Deep brain stimulation (DBS) substantially relieves motor symptoms in advanced-stage patients for whom medication produces disabling dyskinesias. This study investigated speech changes as a result of DBS settings chosen to maximize motor performance. The speech of 10 PD patients and 12 normal controls was analyzed for syllable rate and variability, syllable length patterning, vowel fraction, voice-onset time variability, and spirantization. These were normalized by the controls' standard deviation to represent distance from normal and combined into a composite measure. Results show that DBS settings relieving motor symptoms can improve speech, making it up to three standard deviations closer to normal. However, the clinically motivated settings evaluated here show greater capacity to impair, rather than improve, speech. A feedback device developed from these findings could be useful to clinicians adjusting DBS parameters, as a means for ensuring they do not unwittingly choose DBS settings which impair patients' communication.},
@@ -810,22 +811,23 @@ Results indicate that intelligibility testing can be employed to evaluate dysart
 	Bdsk-Url-1 = {http://www.ncbi.nlm.nih.gov/pubmed/24686561},
 	Bdsk-Url-2 = {https://doi.org/10.1044/2014_JSLHR-S-13-0010}}
 
-@article{forrest1989,
-	Abstract = {Acoustic and kinematic analyses, as well as perceptual evaluation, were conducted on the speech of Parkinsonian and normal geriatric adults. As a group, the Parkinsonian speakers had very limited jaw movement compared to the normal geriatrics. For opening gestures, jaw displacements and velocities produced by the Parkinsonian subjects were about half those produced by the normal geriatrics. Lower lip movement amplitude and velocity also were reduced for the Parkinsonian speakers relative to the normal geriatrics, but the magnitude of the reduction was not as great as that seen in the jaw. Lower lip closing velocities expressed as a function of movement amplitude were greater for the Parkinsonian speakers than for the normal geriatrics. This increased velocity of lower lip movement may reflect a difference in the control of lip elevation for the Parkinsonian speakers, an effect that increased with the severity of dysarthria. Acoustically, the Parkinsonian subjects had reduced durations of vocalic segments, reduced formant transitions, and increased voice onset time compared to the normal geriatrics. These effects were greater for the more severe, compared to the milder, dysarthrics and were most apparent in the more complex, vocalic gestures.},
-	Author = {Forrest, K. and Weismer, G. and Turner, G. S.},
-	Day = {1},
-	Issn = {0001-4966},
-	Journal = {The Journal of the Acoustical Society of America},
-	Keywords = {Acoustic Stimulation, Aged, Aging, Auditory Pathways, Humans, Middle Aged, Parkinson Disease, Speech, Speech Disorders, kinematics},
-	Month = {Jun},
-	Note = {found longer VOT in PD},
-	Number = {6},
-	Pages = {2608--2622},
-	Title = {Kinematic, Acoustic, and Perceptual Analyses of Connected Speech Produced by Parkinsonian and Normal Geriatric Adults.},
-	Url = {http://www.ncbi.nlm.nih.gov/pubmed/2745883},
-	Volume = {85},
-	Year = {1989},
-	Bdsk-Url-1 = {http://www.ncbi.nlm.nih.gov/pubmed/2745883}}
+@Article{forrest1989,
+  author     = {Forrest, K. and Weismer, G. and Turner, G. S.},
+  journal    = {The Journal of the Acoustical Society of America},
+  title      = {Kinematic, Acoustic, and Perceptual Analyses of Connected Speech Produced by Parkinsonian and Normal Geriatric Adults.},
+  year       = {1989},
+  issn       = {0001-4966},
+  month      = {Jun},
+  note       = {found longer VOT in PD},
+  number     = {6},
+  pages      = {2608--2622},
+  volume     = {85},
+  abstract   = {Acoustic and kinematic analyses, as well as perceptual evaluation, were conducted on the speech of Parkinsonian and normal geriatric adults. As a group, the Parkinsonian speakers had very limited jaw movement compared to the normal geriatrics. For opening gestures, jaw displacements and velocities produced by the Parkinsonian subjects were about half those produced by the normal geriatrics. Lower lip movement amplitude and velocity also were reduced for the Parkinsonian speakers relative to the normal geriatrics, but the magnitude of the reduction was not as great as that seen in the jaw. Lower lip closing velocities expressed as a function of movement amplitude were greater for the Parkinsonian speakers than for the normal geriatrics. This increased velocity of lower lip movement may reflect a difference in the control of lip elevation for the Parkinsonian speakers, an effect that increased with the severity of dysarthria. Acoustically, the Parkinsonian subjects had reduced durations of vocalic segments, reduced formant transitions, and increased voice onset time compared to the normal geriatrics. These effects were greater for the more severe, compared to the milder, dysarthrics and were most apparent in the more complex, vocalic gestures.},
+  bdsk-url-1 = {http://www.ncbi.nlm.nih.gov/pubmed/2745883},
+  day        = {1},
+  keywords   = {Acoustic Stimulation, Aged, Aging, Auditory Pathways, Humans, Middle Aged, Parkinson Disease, Speech, Speech Disorders, kinematics, radi_stops},
+  url        = {http://www.ncbi.nlm.nih.gov/pubmed/2745883},
+}
 
 @article{forrest1988,
 	Author = {Forrest, Karen and Weismer, Gary and Milenkovic, Paul and Dougall, Ronald N.},
@@ -4300,16 +4302,17 @@ Thus, based on both the machine learning and human perception results, formant s
 	Volume = {17},
 	Year = {2003}}
 
-@article{putzer2008,
-	Author = {M. Putzer and W. J. Barry and J. R. Moringlane},
-	Journal = {Clinical Linguistics and Phonetics},
-	Keywords = {dbs-stn, stop, vot},
-	Note = {-overall impairment in acoustic measures of stop production under dbsstn},
-	Number = {12},
-	Pages = {957--973},
-	Title = {Effect of bilateral stimulation of the subthalamic nucleus on different speech subsystems in patients with {P}arkinson's disease},
-	Volume = {22},
-	Year = {2008}}
+@Article{putzer2008,
+  author   = {M. Putzer and W. J. Barry and J. R. Moringlane},
+  journal  = {Clinical Linguistics and Phonetics},
+  title    = {Effect of bilateral stimulation of the subthalamic nucleus on different speech subsystems in patients with {P}arkinson's disease},
+  year     = {2008},
+  note     = {-overall impairment in acoustic measures of stop production under dbsstn},
+  number   = {12},
+  pages    = {957--973},
+  volume   = {22},
+  keywords = {dbs-stn, stop, vot, radi_stops},
+}
 
 @article{rodriguez2005,
 	Author = {M. C. Rodriguez-Oroz and J. A. Obeso and A. E. Lang et al},
@@ -5052,14 +5055,14 @@ Results: Stimulation of the subthalamic nucleus at 60 Hz has provided benefit in
 
 @Article{flint1992,
   author    = {Flint, Alastair J and Black, Sandra E and Campbell-Taylor, Irene and Gailey, Gillian F and Levinton, Carey},
-  title     = {Acoustic analysis in the differentiation of {P}arkinson's disease and major depression},
   journal   = {Journal of Psycholinguistic Research},
+  title     = {Acoustic analysis in the differentiation of {P}arkinson's disease and major depression},
   year      = {1992},
-  volume    = {21},
+  note      = {found longer voiceless VOT in PD compared to healthy controls},
   number    = {5},
   pages     = {383--399},
-  note      = {found longer voiceless VOT in PD compared to healthy controls},
-  keywords  = {vot, cognition, depression, pd},
+  volume    = {21},
+  keywords  = {vot, cognition, depression, pd, radi_stops},
   publisher = {Springer},
 }
 
@@ -5220,16 +5223,17 @@ Results: Stimulation of the subthalamic nucleus at 60 Hz has provided benefit in
 	Volume = {108},
 	Year = {2000}}
 
-@article{lisker1964,
-	Author = {Lisker, Leigh and Abramson, Arthur S},
-	Journal = {Word},
-	Keywords = {vot, stop acoustics, acoustic distinctiveness},
-	Number = {3},
-	Pages = {384--422},
-	Publisher = {Taylor \& Francis},
-	Title = {A cross-language study of voicing in initial stops: Acoustical measurements},
-	Volume = {20},
-	Year = {1964}}
+@Article{lisker1964,
+  author    = {Lisker, Leigh and Abramson, Arthur S},
+  journal   = {Word},
+  title     = {A cross-language study of voicing in initial stops: Acoustical measurements},
+  year      = {1964},
+  number    = {3},
+  pages     = {384--422},
+  volume    = {20},
+  keywords  = {vot, stop acoustics, acoustic distinctiveness, radi_stops},
+  publisher = {Taylor \& Francis},
+}
 
 @article{perkell1992,
 	Author = {Perkell, Joseph S and Cohen, Marc H and Svirsky, Mario A and Matthies, Melanie L and Garabieta, Inaki and Jackson, Michel TT},
@@ -6228,19 +6232,20 @@ Results: Stimulation of the subthalamic nucleus at 60 Hz has provided benefit in
 	Title = {The {HTK} hidden {M}arkov model toolkit: Design and philosophy},
 	Year = {1994}}
 
-@article{rusz2016,
-	Author = {Rusz, Jan and Tykalov{\'a}, Tereza and Klemp{\'\i}{\v{r}}, Ji{\v{r}}{\'\i} and {\v{C}}mejla, Roman and R{\r{u}}{\v{z}}i{\v{c}}ka, Ev{\v{z}}en},
-	Doi = {10.1007/s00702-016-1515-8},
-	Journal = {Journal of Neural Transmission},
-	Keywords = {vai, vot, dopamine, ldopa, on off},
-	Note = {demonstrates that speech impairment in previously untreated PD patients tends to improve after ldopa - DRUG EFFECT},
-	Number = {4},
-	Pages = {379--387},
-	Publisher = {Springer},
-	Title = {Effects of dopaminergic replacement therapy on motor speech disorders in Parkinson's disease: longitudinal follow-up study on previously untreated patients},
-	Volume = {123},
-	Year = {2016},
-	Bdsk-Url-1 = {https://doi.org/10.1007/s00702-016-1515-8}}
+@Article{rusz2016,
+  author     = {Rusz, Jan and Tykalov{\'a}, Tereza and Klemp{\'\i}{\v{r}}, Ji{\v{r}}{\'\i} and {\v{C}}mejla, Roman and R{\r{u}}{\v{z}}i{\v{c}}ka, Ev{\v{z}}en},
+  journal    = {Journal of Neural Transmission},
+  title      = {Effects of dopaminergic replacement therapy on motor speech disorders in Parkinson's disease: longitudinal follow-up study on previously untreated patients},
+  year       = {2016},
+  note       = {demonstrates that speech impairment in previously untreated PD patients tends to improve after ldopa - DRUG EFFECT},
+  number     = {4},
+  pages      = {379--387},
+  volume     = {123},
+  bdsk-url-1 = {https://doi.org/10.1007/s00702-016-1515-8},
+  doi        = {10.1007/s00702-016-1515-8},
+  keywords   = {vai, vot, dopamine, ldopa, on off, radi_stops},
+  publisher  = {Springer},
+}
 
 @Article{spencer2009,
   author    = {Spencer, Kristie A and Morgan, Kelly W and Blond, Emily},
@@ -7146,16 +7151,17 @@ Results: Stimulation of the subthalamic nucleus at 60 Hz has provided benefit in
 	Volume = {46},
 	Year = {2013}}
 
-@article{ackermann1997vot,
-	Author = {Ackermann, Hermann and Hertrich, Ingo},
-	Journal = {Brain and Language},
-	Keywords = {ataxia},
-	Number = {3},
-	Pages = {321--333},
-	Publisher = {Elsevier},
-	Title = {Voice onset time in ataxic dysarthria},
-	Volume = {56},
-	Year = {1997}}
+@Article{ackermann1997vot,
+  author    = {Ackermann, Hermann and Hertrich, Ingo},
+  journal   = {Brain and Language},
+  title     = {Voice onset time in ataxic dysarthria},
+  year      = {1997},
+  number    = {3},
+  pages     = {321--333},
+  volume    = {56},
+  keywords  = {ataxia, radi_stops},
+  publisher = {Elsevier},
+}
 
 @article{ackermann1994,
 	Author = {Ackermann, Hermann and Ziegler, Wolfram},
@@ -7190,16 +7196,17 @@ Results: Stimulation of the subthalamic nucleus at 60 Hz has provided benefit in
 	Volume = {6},
 	Year = {2007}}
 
-@article{ackermann1999,
-	Author = {Ackermann, Hermann and Gr{\"a}ber, Susanne and Hertrich, Ingo and Daum, Irene},
-	Journal = {Brain and Language},
-	Keywords = {ataxia},
-	Number = {2},
-	Pages = {95--109},
-	Publisher = {Elsevier},
-	Title = {Phonemic vowel length contrasts in cerebellar disorders},
-	Volume = {67},
-	Year = {1999}}
+@Article{ackermann1999,
+  author    = {Ackermann, Hermann and Gr{\"a}ber, Susanne and Hertrich, Ingo and Daum, Irene},
+  journal   = {Brain and Language},
+  title     = {Phonemic vowel length contrasts in cerebellar disorders},
+  year      = {1999},
+  number    = {2},
+  pages     = {95--109},
+  volume    = {67},
+  keywords  = {ataxia, phonemic contrasts},
+  publisher = {Elsevier},
+}
 
 @article{ackermann1992,
 	Author = {Ackermann, Hermann and Vogel, Matthias and Petersen, Dirk and Poremba, Michael},
@@ -9680,15 +9687,17 @@ cross validation. The dataset used for method development and evaluation consist
 	Year = {1990},
 	Bdsk-Url-1 = {https://doi.org/10.1093/geronj/45.2.p35}}
 
-@article{rusz2015,
-	Author = {Rusz, Jan and Bonnet, Cecilia and Klemp{\'\i}{\v{r}}, Ji{\v{r}}{\'\i} and Tykalov{\'a}, Tereza and Baborov{\'a}, Eva and Novotn{y}, Michal and Rulseh, Aaron and R{\uu}{\v{z}}i{\v{c}}ka, Ev{\v{z}}en},
-	Journal = {Journal of neurology},
-	Number = {4},
-	Pages = {992--1001},
-	Publisher = {Springer},
-	Title = {Speech disorders reflect differing pathophysiology in {P}arkinson's disease, progressive supranuclear palsy and multiple system atrophy},
-	Volume = {262},
-	Year = {2015}}
+@Article{rusz2015,
+  author    = {Rusz, Jan and Bonnet, Cecilia and Klemp{\'\i}{\v{r}}, Ji{\v{r}}{\'\i} and Tykalov{\'a}, Tereza and Baborov{\'a}, Eva and Novotn{y}, Michal and Rulseh, Aaron and R{\uu}{\v{z}}i{\v{c}}ka, Ev{\v{z}}en},
+  journal   = {Journal of neurology},
+  title     = {Speech disorders reflect differing pathophysiology in {P}arkinson's disease, progressive supranuclear palsy and multiple system atrophy},
+  year      = {2015},
+  number    = {4},
+  pages     = {992--1001},
+  volume    = {262},
+  keywords  = {radi_stops},
+  publisher = {Springer},
+}
 
 @article{lowit2010,
 	Author = {Lowit, Anja and Dobinson, Corinne and Timmins, Claire and Howell, Peter and Kr{\"o}ger, Bernd},
@@ -10272,16 +10281,17 @@ cross validation. The dataset used for method development and evaluation consist
 	Title = {Acoustic analysis of the prosodic properties of ataxic speech},
 	Year = {2002}}
 
-@article{morris1989,
-	Author = {Morris, Richard J},
-	Journal = {Journal of Communication Disorders},
-	Keywords = {ataxia},
-	Number = {1},
-	Pages = {23--33},
-	Publisher = {Elsevier},
-	Title = {{VOT} and dysarthria: A descriptive study},
-	Volume = {22},
-	Year = {1989}}
+@Article{morris1989,
+  author    = {Morris, Richard J},
+  journal   = {Journal of Communication Disorders},
+  title     = {{VOT} and dysarthria: A descriptive study},
+  year      = {1989},
+  number    = {1},
+  pages     = {23--33},
+  volume    = {22},
+  keywords  = {ataxia, radi_stops},
+  publisher = {Elsevier},
+}
 
 @article{schmahmann2004,
 	Author = {Schmahmann, Jeremy D},
@@ -10977,16 +10987,17 @@ cross validation. The dataset used for method development and evaluation consist
 	Volume = {48},
 	Year = {2005}}
 
-@article{rusz2017,
-	Author = {Rusz, Jan and Novotn{y}, Michal and Hlavni{\v{c}}ka, Jan and Tykalov{\'a}, Tereza and R{\uu}{\v{z}}i{\v{c}}ka, Ev{\v{z}}en},
-	Journal = {IEEE Transactions on Neural Systems and Rehabilitation Engineering},
-	Keywords = {read me!, cepstral analysis},
-	Number = {8},
-	Pages = {1319--1321},
-	Publisher = {IEEE},
-	Title = {High-accuracy voice-based classification between patients with Parkinson's disease and other neurological diseases may be an easy task with inappropriate experimental design},
-	Volume = {25},
-	Year = {2017}}
+@Article{rusz2017,
+  author    = {Rusz, Jan and Novotn{y}, Michal and Hlavni{\v{c}}ka, Jan and Tykalov{\'a}, Tereza and R{\uu}{\v{z}}i{\v{c}}ka, Ev{\v{z}}en},
+  journal   = {IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  title     = {High-accuracy voice-based classification between patients with Parkinson's disease and other neurological diseases may be an easy task with inappropriate experimental design},
+  year      = {2017},
+  number    = {8},
+  pages     = {1319--1321},
+  volume    = {25},
+  keywords  = {read me!, cepstral analysis, radi_stops},
+  publisher = {IEEE},
+}
 
 @article{mdvp,
 	Author = {Nicastri, M and Chiarella, G and Gallo, LV and Catalano, M and Cassandro, E},
@@ -11169,11 +11180,12 @@ cross validation. The dataset used for method development and evaluation consist
 
 @Misc{autovot.cv,
   author       = {Joseph Keshet and Morgan Sonderegger and Thea \textbf{Knowles}},
-  title        = {{AutoVOT}: A tool for automatic measurement of voice onset time using discriminative structured prediction {[Computer Program v0.93].}},
   howpublished = {\url{https://github.com/mlml/autovot}},
+  title        = {{AutoVOT}: A tool for automatic measurement of voice onset time using discriminative structured prediction {[Computer Program v0.93].}},
   year         = {2014},
   bdsk-url-1   = {https://github.com/mlml/autovot},
   groups       = {My work},
+  keywords     = {radi_stops},
   url          = {https://github.com/mlml/autovot},
 }
 
@@ -11286,13 +11298,14 @@ cross validation. The dataset used for method development and evaluation consist
 	Volume = {70},
 	Year = {2017}}
 
-@article{rusz2017ms,
-	Author = {Rusz, Jan and Benova, Barbora and Ruzickova, Hana and Novotny, Michal and Tykalova, Tereza and Hlavnicka, Jan and Uher, Tomas and Vaneckova, Manuela and Andelova, Michaela and Novotna, Klara and others},
-	Journal = {Multiple Sclerosis and Related Disorders},
-	Keywords = {ataxia, read me!},
-	Publisher = {Elsevier},
-	Title = {Characteristics of motor speech phenotypes in multiple sclerosis},
-	Year = {2017}}
+@Article{rusz2017ms,
+  author    = {Rusz, Jan and Benova, Barbora and Ruzickova, Hana and Novotny, Michal and Tykalova, Tereza and Hlavnicka, Jan and Uher, Tomas and Vaneckova, Manuela and Andelova, Michaela and Novotna, Klara and others},
+  journal   = {Multiple Sclerosis and Related Disorders},
+  title     = {Characteristics of motor speech phenotypes in multiple sclerosis},
+  year      = {2017},
+  keywords  = {ataxia, read me!, radi_stops},
+  publisher = {Elsevier},
+}
 
 @article{vogel2017,
 	Author = {Vogel, Adam P and Rommel, Natalie and Oettinger, Andreas and Horger, Marius and Krumm, Patrick and Kraus, Eva-Maria and Sch{\"o}ls, Ludger and Synofzik, Matthis},
@@ -11352,18 +11365,19 @@ cross validation. The dataset used for method development and evaluation consist
 	Volume = {11},
 	Year = {2016}}
 
-@article{saxena2014,
-	Annote = {looked at vot of 5 different stop PoAs},
-	Author = {Saxena, Mohit and Behari, Madhuri and Kumaran, S Senthil and Goyal, Vinay and Narang, Vaishna},
-	Journal = {Parkinsonism \& related disorders},
-	Keywords = {read me!, consonant composite},
-	Note = {a note!},
-	Number = {8},
-	Pages = {855--861},
-	Publisher = {Elsevier},
-	Title = {Assessing speech dysfunction using {BOLD} and acoustic analysis in parkinsonism},
-	Volume = {20},
-	Year = {2014}}
+@Article{saxena2014,
+  author    = {Saxena, Mohit and Behari, Madhuri and Kumaran, S Senthil and Goyal, Vinay and Narang, Vaishna},
+  journal   = {Parkinsonism \& related disorders},
+  title     = {Assessing speech dysfunction using {BOLD} and acoustic analysis in parkinsonism},
+  year      = {2014},
+  note      = {a note!},
+  number    = {8},
+  pages     = {855--861},
+  volume    = {20},
+  annote    = {looked at vot of 5 different stop PoAs},
+  keywords  = {read me!, consonant composite, radi_stops},
+  publisher = {Elsevier},
+}
 
 @article{schwartz2012,
 	Author = {Schwartz, Jean-Luc and Bo{\"e}, Louis-Jean and Badin, Pierre and Sawallis, Thomas R},
@@ -11614,16 +11628,17 @@ cross validation. The dataset used for method development and evaluation consist
 	Year = {2018},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1002/mds.27323}}
 
-@article{sonderegger2012,
-	Author = {Sonderegger, Morgan and Keshet, Joseph},
-	Journal = {The Journal of the Acoustical Society of America},
-	Keywords = {autovot, forced alignment, consonant composite, mfccs},
-	Number = {6},
-	Pages = {3965--3979},
-	Publisher = {ASA},
-	Title = {Automatic measurement of voice onset time using discriminative structured prediction},
-	Volume = {132},
-	Year = {2012}}
+@Article{sonderegger2012,
+  author    = {Sonderegger, Morgan and Keshet, Joseph},
+  journal   = {The Journal of the Acoustical Society of America},
+  title     = {Automatic measurement of voice onset time using discriminative structured prediction},
+  year      = {2012},
+  number    = {6},
+  pages     = {3965--3979},
+  volume    = {132},
+  keywords  = {autovot, forced alignment, consonant composite, mfccs, radi_stops},
+  publisher = {ASA},
+}
 
 @incollection{davis1990,
 	Author = {Davis, Steven B and Mermelstein, Paul},
@@ -11881,15 +11896,16 @@ cross validation. The dataset used for method development and evaluation consist
 	Volume = {55},
 	Year = {2003}}
 
-@article{wedel2018,
-	Author = {Wedel, Andrew and Nelson, Noah and Sharp, Rebecca},
-	Journal = {Journal of Memory and Language},
-	Keywords = {acoustic distinctiveness, vot, read me!, prominence, healthy speech, consonant composite},
-	Pages = {61--88},
-	Publisher = {Elsevier},
-	Title = {The phonetic specificity of contrastive hyperarticulation in natural speech},
-	Volume = {100},
-	Year = {2018}}
+@Article{wedel2018,
+  author    = {Wedel, Andrew and Nelson, Noah and Sharp, Rebecca},
+  journal   = {Journal of Memory and Language},
+  title     = {The phonetic specificity of contrastive hyperarticulation in natural speech},
+  year      = {2018},
+  pages     = {61--88},
+  volume    = {100},
+  keywords  = {acoustic distinctiveness, vot, read me!, prominence, healthy speech, consonant composite, radi_stops},
+  publisher = {Elsevier},
+}
 
 @article{mitterer2018,
 	Author = {Mitterer, Holger and Reinisch, Eva and McQueen, James M},
@@ -12358,13 +12374,13 @@ cross validation. The dataset used for method development and evaluation consist
 
 @Article{ozsancak2001,
   author    = {{\"O}zsancak, Canan and Auzou, Pascal and Jan, Mary and Hannequin, Didier},
-  title     = {Measurement of voice onset time in dysarthric patients: methodological considerations},
   journal   = {Folia phoniatrica et logopaedica},
+  title     = {Measurement of voice onset time in dysarthric patients: methodological considerations},
   year      = {2001},
-  volume    = {53},
   number    = {1},
   pages     = {48--57},
-  keywords  = {read me!; vot},
+  volume    = {53},
+  keywords  = {read me!; vot, radi_stops},
   publisher = {Karger Publishers},
 }
 
@@ -12849,30 +12865,32 @@ Both individuals with PD and controls used increased duration as a means of enha
 	Title = {Study of the automatic detection of {P}arkison's Disease based on speaker recognition technologies and allophonic distillation},
 	Year = {2018}}
 
-@article{cho2019,
-	Abstract = {In this special collection entitled Marking 50 Years of Research on Voice Onset Time and the Voicing Contrast in the World's Languages, we have compiled eleven studies investigating the voicing contrast in 19 languages. The collection provides extensive data obtained from 270 speakers across those languages, examining VOT and other acoustic, aerodynamic and articulatory measures. The languages studied may be divided into four groups: `aspirating' languages with a two-way contrast (English, three varieties of German); `true voicing' languages with a two-way contrast (Russian, Turkish, Brazilian Portuguese, two Iranian languages Pashto and Wakhi); languages with a three-way contrast (Thai, Vietnamese, Khmer, Yerevan Armenia, three Indo-Aryan languages, Dawoodi, Punjabi and Shina, and Burushaki spoken in India); and Indo-Aryan languages with a more than three-way contrast (Jangli and Urdu with a four-way contrast, and Sindhi and Siraiki with a five-way contrast). We discuss the cross-linguistic data, focusing on how much VOT alone tells us about the voicing contrast in these languages, and what other phonetic dimensions (such as consonant-induced F0 and voice quality) are needed for a complete understanding of laryngeal contrast in these languages. Implications for various issues emerge: universal phonetic feature systems, effects of language contact on linguistic levelling, and the relation between laryngeal contrast and supralaryngeal articulation. The cross-linguistic VOT data also lead us to discuss how the distribution of VOT as measured acoustically may allow us to infer the underlying articulation and how it might be approached in gestural phonologies. The discussion on these multiple issues sparks new questions to be resolved, and provide indications of where the field may be best directed in exploring laryngeal contrast in voicing in the world's languages.},
-	Author = {Taehong Cho and D.H. Whalen and Gerard Docherty},
-	Doi = {https://doi.org/10.1016/j.wocn.2018.11.002},
-	Issn = {0095-4470},
-	Journal = {Journal of Phonetics},
-	Keywords = {Voice Onset Time, Laryngeal Contrast, Universals and Variation, Multi-dimensional, Stops, vot, stop acoustics, acoustic distinctiveness},
-	Pages = {52 - 65},
-	Title = {Voice onset time and beyond: Exploring laryngeal contrast in 19 languages},
-	Url = {http://www.sciencedirect.com/science/article/pii/S0095447018302110},
-	Volume = {72},
-	Year = {2019},
-	Bdsk-Url-1 = {http://www.sciencedirect.com/science/article/pii/S0095447018302110},
-	Bdsk-Url-2 = {https://doi.org/10.1016/j.wocn.2018.11.002}}
+@Article{cho2019,
+  author     = {Taehong Cho and D.H. Whalen and Gerard Docherty},
+  journal    = {Journal of Phonetics},
+  title      = {Voice onset time and beyond: Exploring laryngeal contrast in 19 languages},
+  year       = {2019},
+  issn       = {0095-4470},
+  pages      = {52 - 65},
+  volume     = {72},
+  abstract   = {In this special collection entitled Marking 50 Years of Research on Voice Onset Time and the Voicing Contrast in the World's Languages, we have compiled eleven studies investigating the voicing contrast in 19 languages. The collection provides extensive data obtained from 270 speakers across those languages, examining VOT and other acoustic, aerodynamic and articulatory measures. The languages studied may be divided into four groups: `aspirating' languages with a two-way contrast (English, three varieties of German); `true voicing' languages with a two-way contrast (Russian, Turkish, Brazilian Portuguese, two Iranian languages Pashto and Wakhi); languages with a three-way contrast (Thai, Vietnamese, Khmer, Yerevan Armenia, three Indo-Aryan languages, Dawoodi, Punjabi and Shina, and Burushaki spoken in India); and Indo-Aryan languages with a more than three-way contrast (Jangli and Urdu with a four-way contrast, and Sindhi and Siraiki with a five-way contrast). We discuss the cross-linguistic data, focusing on how much VOT alone tells us about the voicing contrast in these languages, and what other phonetic dimensions (such as consonant-induced F0 and voice quality) are needed for a complete understanding of laryngeal contrast in these languages. Implications for various issues emerge: universal phonetic feature systems, effects of language contact on linguistic levelling, and the relation between laryngeal contrast and supralaryngeal articulation. The cross-linguistic VOT data also lead us to discuss how the distribution of VOT as measured acoustically may allow us to infer the underlying articulation and how it might be approached in gestural phonologies. The discussion on these multiple issues sparks new questions to be resolved, and provide indications of where the field may be best directed in exploring laryngeal contrast in voicing in the world's languages.},
+  bdsk-url-1 = {http://www.sciencedirect.com/science/article/pii/S0095447018302110},
+  bdsk-url-2 = {https://doi.org/10.1016/j.wocn.2018.11.002},
+  doi        = {https://doi.org/10.1016/j.wocn.2018.11.002},
+  keywords   = {Voice Onset Time, Laryngeal Contrast, Universals and Variation, Multi-dimensional, Stops, vot, stop acoustics, acoustic distinctiveness, radi_stops},
+  url        = {http://www.sciencedirect.com/science/article/pii/S0095447018302110},
+}
 
-@article{abramson2017,
-	Author = {Abramson, Arthur S and Whalen, Douglas H},
-	Journal = {Journal of phonetics},
-	Keywords = {vot, stop acoustics, acoustic distinctiveness},
-	Pages = {75--86},
-	Publisher = {Elsevier},
-	Title = {{Voice Onset Time (VOT)} at 50: Theoretical and practical issues in measuring voicing distinctions},
-	Volume = {63},
-	Year = {2017}}
+@Article{abramson2017,
+  author    = {Abramson, Arthur S and Whalen, Douglas H},
+  journal   = {Journal of phonetics},
+  title     = {{Voice Onset Time (VOT)} at 50: Theoretical and practical issues in measuring voicing distinctions},
+  year      = {2017},
+  pages     = {75--86},
+  volume    = {63},
+  keywords  = {vot, stop acoustics, acoustic distinctiveness, radi_stops},
+  publisher = {Elsevier},
+}
 
 @article{nishio2001,
 	Author = {Nishio, Masaki and Niimi, Seiji},
@@ -13045,12 +13063,12 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @InProceedings{novotny2015,
   author       = {Novotn{\`y}, Michal and Posp{\'\i}{\v{s}}il, Jakub and {\v{C}}mejla, Roman and Rusz, Jan},
-  title        = {Automatic detection of voice onset time in dysarthric speech},
   booktitle    = {2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  title        = {Automatic detection of voice onset time in dysarthric speech},
   year         = {2015},
-  pages        = {4340--4344},
   organization = {IEEE},
-  keywords     = {vot, acoustics, automatic},
+  pages        = {4340--4344},
+  keywords     = {vot, acoustics, automatic, radi_stops},
 }
 
 @Unpublished{mlmlstats,
@@ -13190,25 +13208,26 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{auzou2000,
   author    = {Auzou, Pascal and Ozsancak, Canan and Morris, Richard J and Jan, Mary and Eustache, Francis and Hannequin, Didier},
-  title     = {Voice onset time in aphasia, apraxia of speech and dysarthria: a review},
   journal   = {Clinical linguistics \& phonetics},
+  title     = {Voice onset time in aphasia, apraxia of speech and dysarthria: a review},
   year      = {2000},
-  volume    = {14},
   number    = {2},
   pages     = {131--150},
+  volume    = {14},
   comment   = {very helpful as place to cite conventions/norms re: vot measurement in disordered speech},
-  keywords  = {vot, dysarthria, acoustics, stop acoustics, read me!},
+  keywords  = {vot, dysarthria, acoustics, stop acoustics, read me!, radi_stops},
   publisher = {Taylor \& Francis},
 }
 
 @Article{stuartsmith2015,
   author    = {Stuart-Smith, Jane and Sonderegger, Morgan and Rathcke, Tamara and Macdonald, Rachel},
-  title     = {The private life of stops: {VOT} in a real-time corpus of spontaneous {G}laswegian},
   journal   = {Laboratory Phonology},
+  title     = {The private life of stops: {VOT} in a real-time corpus of spontaneous {G}laswegian},
   year      = {2015},
-  volume    = {6},
   number    = {3-4},
   pages     = {505--549},
+  volume    = {6},
+  keywords  = {radi_stops},
   publisher = {De Gruyter},
 }
 
@@ -13331,25 +13350,25 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @InProceedings{singh2016,
   author       = {Singh, Rita and Keshet, Joseph and Gencaga, Deniz and Raj, Bhiksha},
-  title        = {The relationship of voice onset time and voice offset time to physical age},
   booktitle    = {2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  title        = {The relationship of voice onset time and voice offset time to physical age},
   year         = {2016},
-  pages        = {5390--5394},
   organization = {IEEE},
+  pages        = {5390--5394},
   comment      = {conclude that, contrary to other findings, VOT not associated with age},
-  keywords     = {vot, aging},
+  keywords     = {vot, aging, radi_stops},
 }
 
 @Article{buz2018,
   author    = {Buz, Esteban and Buchwald, Adam and Fuchs, Tzeviya and Keshet, Joseph},
-  title     = {Assessing automatic {VOT} annotation using unimpaired and impaired speech},
   journal   = {International Journal of Speech-Language Pathology},
+  title     = {Assessing automatic {VOT} annotation using unimpaired and impaired speech},
   year      = {2018},
-  volume    = {20},
   number    = {6},
   pages     = {624--634},
+  volume    = {20},
   comment   = {used autovot to replicate results of manually annotated vot in 2 speakers with stroke},
-  keywords  = {vot, autovot, speech disorders},
+  keywords  = {vot, autovot, speech disorders, radi_stops},
   publisher = {Taylor \& Francis},
 }
 
@@ -13420,7 +13439,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   pages     = {68--86},
   volume    = {89},
   comment   = {used amazon mechanical turk to recruit speakers},
-  keywords  = {vot, caspd},
+  keywords  = {vot, caspd, radi_stops},
   publisher = {Elsevier},
 }
 
@@ -13456,17 +13475,17 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{steffman2019,
   author   = {Jeremy Steffman},
-  title    = {Intonational structure mediates speech rate normalization in the perception of segmental categories},
   journal  = {Journal of Phonetics},
+  title    = {Intonational structure mediates speech rate normalization in the perception of segmental categories},
   year     = {2019},
-  volume   = {74},
-  pages    = {114 - 129},
   issn     = {0095-4470},
+  pages    = {114 - 129},
+  volume   = {74},
   abstract = {The question of if and to what extent listeners’ perceptual phonetic categories are sensitive to prosodically driven variability has been a topic of interest in the literature. The present study reports on two experiments which address this question in light of recent research. In Experiment 1, listeners categorized a VOT continuum as /p/ or /b/ in a target syllable (/pɑ/ or /bɑ/). The target was placed in a carrier phrase where the duration and f0 of the pre-target syllable were manipulated. Results suggest listeners are sensitive to intonational structure in their computation of speech rate, interpreting a short syllable with low-rising f0 (created from an L-H\% boundary tone in English intonational phonology) as an increase in speech rate. This perceived increase in rate shifts the category boundary of the subsequent target VOT. Experiment 2 showed listeners similarly adjusted categorization of a vowel duration continuum, where vowel duration is a cue to a following obstruent’s voicing (categorized as "coat" or "code"). Taken together, these results suggest that listeners are sensitive to intonational structure in their perception of segmental contrasts and use the distribution of tonal targets over a given temporal interval in computing speech rate.},
   comment  = {- prosody influences perception of speech rate
 - implications for PD?},
   doi      = {https://doi.org/10.1016/j.wocn.2019.03.002},
-  keywords = {Prosody, Intonation, Segmental categorization, Speech perception, Speaking rate normalization, healthy speech rate, read me!},
+  keywords = {Prosody, Intonation, Segmental categorization, Speech perception, Speaking rate normalization, healthy speech rate, read me!, radi_stops},
   url      = {http://www.sciencedirect.com/science/article/pii/S0095447018301177},
 }
 
@@ -13531,15 +13550,15 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{wang2004,
   author    = {Yu-tsai Wang and Ray D. Kent and Joseph R. Duffy and Jack E. Thomas and Gary Weismer},
-  title     = {Alternating motion rate as an index of speech motor disorder in traumatic brain injury},
   journal   = {Clinical Linguistics {\&} Phonetics},
+  title     = {Alternating motion rate as an index of speech motor disorder in traumatic brain injury},
   year      = {2004},
-  volume    = {18},
+  month     = {jan},
   number    = {1},
   pages     = {57--84},
-  month     = {jan},
+  volume    = {18},
   doi       = {10.1080/02699200310001596160},
-  keywords  = {vot},
+  keywords  = {vot, radi_stops},
   publisher = {Informa {UK} Limited},
 }
 
@@ -13547,7 +13566,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   author   = {Joseph Keshet and Morgan Sonderegger and Thea Knowles},
   title    = {{AutoVOT}: A tool for automatic measurement of voice onset time using discriminative structured prediction {[Computer program]. Version 0.93}},
   year     = {2014},
-  keywords = {vot},
+  keywords = {vot, radi_stops},
   url      = {https://github.com/mlml/autovot},
 }
 
@@ -13635,15 +13654,15 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{hoffman2001,
   author    = {Bari Hoffman-Ruddy and Geralyn Schulz and Jearold Vitek and Marion Evatt},
-  title     = {A preliminary study of the effects of sub thalamic nucleus {(STN)} deep brain stimulation {(DBS)} on voice and speech characteristics in {P}arkinson's Disease {(PD)}},
   journal   = {Clinical Linguistics {\&} Phonetics},
+  title     = {A preliminary study of the effects of sub thalamic nucleus {(STN)} deep brain stimulation {(DBS)} on voice and speech characteristics in {P}arkinson's Disease {(PD)}},
   year      = {2001},
-  volume    = {15},
+  month     = {jan},
   number    = {1-2},
   pages     = {97--101},
-  month     = {jan},
+  volume    = {15},
   doi       = {10.3109/02699200109167638},
-  keywords  = {vot},
+  keywords  = {vot, radi_stops},
   publisher = {Informa {UK} Limited},
 }
 
@@ -13813,15 +13832,15 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{summerfield1981,
   author    = {Summerfield, Quentin},
-  title     = {Articulatory rate and perceptual constancy in phonetic perception.},
   journal   = {Journal of Experimental Psychology: Human Perception and Performance},
+  title     = {Articulatory rate and perceptual constancy in phonetic perception.},
   year      = {1981},
-  volume    = {7},
   number    = {5},
   pages     = {1074},
+  volume    = {7},
   comment   = {- demonstrated that synthetically altered syllable length impacts perception of voicing distinction in stops
 - cited in miller1981phonetic},
-  keywords  = {healthy speech rate; vot},
+  keywords  = {healthy speech rate; vot, radi_stops},
   publisher = {American Psychological Association},
 }
 
@@ -13843,53 +13862,53 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{Chodroff2017,
   author    = {Eleanor Chodroff and Colin Wilson},
-  title     = {Structure in talker-specific phonetic realization: Covariation of stop consonant {VOT} in {A}merican {E}nglish},
   journal   = {Journal of Phonetics},
+  title     = {Structure in talker-specific phonetic realization: Covariation of stop consonant {VOT} in {A}merican {E}nglish},
   year      = {2017},
-  volume    = {61},
-  pages     = {30--47},
   month     = {mar},
+  pages     = {30--47},
+  volume    = {61},
   doi       = {10.1016/j.wocn.2017.01.001},
-  keywords  = {vot},
+  keywords  = {vot, radi_stops},
   publisher = {Elsevier {BV}},
 }
 
 @Article{davidson2016,
   author    = {Lisa Davidson},
-  title     = {Variability in the implementation of voicing in {A}merican {E}nglish obstruents},
   journal   = {Journal of Phonetics},
+  title     = {Variability in the implementation of voicing in {A}merican {E}nglish obstruents},
   year      = {2016},
-  volume    = {54},
-  pages     = {35--50},
   month     = {jan},
+  pages     = {35--50},
+  volume    = {54},
   doi       = {10.1016/j.wocn.2015.09.003},
-  keywords  = {vot},
+  keywords  = {vot, radi_stops},
   publisher = {Elsevier {BV}},
 }
 
 @Article{davidson2011,
   author    = {Lisa Davidson},
-  title     = {Characteristics of stop releases in {A}merican {E}nglish spontaneous speech},
   journal   = {Speech Communication},
+  title     = {Characteristics of stop releases in {A}merican {E}nglish spontaneous speech},
   year      = {2011},
-  volume    = {53},
+  month     = {oct},
   number    = {8},
   pages     = {1042--1058},
-  month     = {oct},
+  volume    = {53},
   doi       = {10.1016/j.specom.2011.05.010},
-  keywords  = {vot},
+  keywords  = {vot, radi_stops},
   publisher = {Elsevier {BV}},
 }
 
 @Article{davidson2018,
   author    = {Lisa Davidson},
-  title     = {Phonation and laryngeal specification in {A}merican {E}nglish voiceless obstruents},
   journal   = {Journal of the International Phonetic Association},
+  title     = {Phonation and laryngeal specification in {A}merican {E}nglish voiceless obstruents},
   year      = {2018},
-  volume    = {48},
   number    = {3},
   pages     = {331--356},
-  keywords  = {vot},
+  volume    = {48},
+  keywords  = {vot, radi_stops},
   publisher = {Cambridge University Press},
 }
 
@@ -13960,16 +13979,16 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{ravizza2003,
   author    = {Susan M Ravizza},
-  title     = {Dissociating the performance of cortical and subcortical patients on phonemic tasks},
   journal   = {Brain and Cognition},
+  title     = {Dissociating the performance of cortical and subcortical patients on phonemic tasks},
   year      = {2003},
-  volume    = {53},
+  month     = {nov},
   number    = {2},
   pages     = {301--310},
-  month     = {nov},
+  volume    = {53},
   comment   = {cited in fischer2010 as demonstration of no diffs in vot found in group of individuals with subcortical brain damage (including 6 people with pd) when speech rate was controlled for},
   doi       = {10.1016/s0278-2626(03)00131-3},
-  keywords  = {vot},
+  keywords  = {vot, radi_stops},
   publisher = {Elsevier {BV}},
 }
 
@@ -14090,27 +14109,27 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{swartz1992,
   author    = {Bradford L. Swartz},
-  title     = {Gender difference in voice onset time},
   journal   = {Perceptual and motor skills},
+  title     = {Gender difference in voice onset time},
   year      = {1992},
-  volume    = {75},
+  month     = {dec},
   number    = {3},
   pages     = {983--992},
-  month     = {dec},
+  volume    = {75},
   doi       = {10.2466/pms.1992.75.3.983},
-  keywords  = {radi discussion, vot, sex differences, gender},
+  keywords  = {radi discussion, vot, sex differences, gender, radi_stops},
   publisher = {{SAGE} Publications},
 }
 
 @Article{whiteside1998,
   author    = {Whiteside, Sandra P and Irving, Caroline J},
-  title     = {Speakers' sex differences in voice onset time: a study of isolated word production},
   journal   = {Perceptual and motor skills},
+  title     = {Speakers' sex differences in voice onset time: a study of isolated word production},
   year      = {1998},
-  volume    = {86},
   number    = {2},
   pages     = {651--654},
-  keywords  = {radi discussion, vot, sex differences},
+  volume    = {86},
+  keywords  = {radi discussion, vot, sex differences, radi_stops},
   publisher = {SAGE Publications Sage CA: Los Angeles, CA},
 }
 
@@ -14363,37 +14382,37 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{akesson2010,
   author   = {{\AA}kesson, Joel and Lindh, Jonas and Hartelius, Lena},
-  title    = {Post Surgery Effects on {VOT} for {P}arkinson Disease {STN/DBS} Patients},
   journal  = {Proceedings from {FONETIK} 2010, Working Papers},
+  title    = {Post Surgery Effects on {VOT} for {P}arkinson Disease {STN/DBS} Patients},
   year     = {2010},
-  volume   = {54},
   pages    = {119--124},
-  keywords = {vot, dbs, dbs-stn},
+  volume   = {54},
+  keywords = {vot, dbs, dbs-stn, radi_stops},
 }
 
 @Article{karlsson2012vot,
   author    = {Karlsson, Fredrik and Unger, Elin and Wahlgren, Sofia and van Doom, Jan},
-  title     = {Treatment effects in voice onset time of plosives associated with deep brain stimulation of the subthalamic nucleus and the caudal zona incerta},
   journal   = {Journal of Medical Speech-Language Pathology},
+  title     = {Treatment effects in voice onset time of plosives associated with deep brain stimulation of the subthalamic nucleus and the caudal zona incerta},
   year      = {2012},
-  volume    = {20},
   number    = {4},
   pages     = {65--70},
-  keywords  = {vot, dbs, dbs-stn},
+  volume    = {20},
+  keywords  = {vot, dbs, dbs-stn, radi_stops},
   publisher = {Delmar Learning},
 }
 
 @Article{kessinger1997,
   author    = {R.H. Kessinger and S.E. Blumstein},
-  title     = {Effects of speaking rate on voice-onset time in {T}hai, {F}rench, and {E}nglish},
   journal   = {Journal of Phonetics},
+  title     = {Effects of speaking rate on voice-onset time in {T}hai, {F}rench, and {E}nglish},
   year      = {1997},
-  volume    = {25},
+  month     = {apr},
   number    = {2},
   pages     = {143--168},
-  month     = {apr},
+  volume    = {25},
   doi       = {10.1006/jpho.1996.0039},
-  keywords  = {vot},
+  keywords  = {vot, radi_stops},
   publisher = {Elsevier},
 }
 
@@ -14407,16 +14426,16 @@ Both individuals with PD and controls used increased duration as a means of enha
   pages     = {117--128},
   volume    = {26},
   doi       = {10.1006/jpho.1997.0069},
-  keywords  = {vot, healthy speech rate},
+  keywords  = {vot, healthy speech rate, radi_stops},
   publisher = {Elsevier},
 }
 
 @InProceedings{karlsson2011,
   author    = {Karlsson, Fredrik and Unger, Elin and Wahlgren, Sofia and van Doorn, Jan},
-  title     = {Sources of missing data in {VOT} measurements of patients with {P}arkinson's disease under deep brain stimulation in subthalamic nucleus and caudal zona incerta},
   booktitle = {Poster presented at 6th International Conference on Speech Motor Control},
+  title     = {Sources of missing data in {VOT} measurements of patients with {P}arkinson's disease under deep brain stimulation in subthalamic nucleus and caudal zona incerta},
   year      = {2011},
-  keywords  = {vot, dbs, dbs-stn},
+  keywords  = {vot, dbs, dbs-stn, radi_stops},
 }
 
 @Book{lohr1987,
@@ -14441,11 +14460,11 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{karlsson2011ddk,
   author    = {Karlsson, Fredrik and Unger, Elin and Wahlgren, Sofia and Blomstedt, Patric and Linder, Jan and Nordh, Erik and Zafar, Hamayun and van Doorn, Jan},
-  title     = {Deep brain stimulation of caudal zona incerta and subthalamic nucleus in patients with {P}arkinson's disease: effects on diadochokinetic rate},
   journal   = {Parkinson’s disease},
+  title     = {Deep brain stimulation of caudal zona incerta and subthalamic nucleus in patients with {P}arkinson's disease: effects on diadochokinetic rate},
   year      = {2011},
   volume    = {2011},
-  keywords  = {dbs, vot},
+  keywords  = {dbs, vot, radi_stops},
   publisher = {Hindawi},
 }
 
@@ -15600,11 +15619,12 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{rusz2018,
   author    = {Rusz, Jan and Benova, Barbora and Ruzickova, Hana and Novotny, Michal and Tykalova, Tereza and Hlavnicka, Jan and Uher, Tomas and Vaneckova, Manuela and Andelova, Michaela and Novotna, Klara and others},
-  title     = {Characteristics of motor speech phenotypes in multiple sclerosis},
   journal   = {Multiple sclerosis and related disorders},
+  title     = {Characteristics of motor speech phenotypes in multiple sclerosis},
   year      = {2018},
-  volume    = {19},
   pages     = {62--69},
+  volume    = {19},
+  keywords  = {radi_stops},
   publisher = {Elsevier},
 }
 
@@ -16430,7 +16450,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   title     = {Variation in Voice Onset Time along the {Scottish-English} Border},
   year      = {2011},
   pages     = {591--594},
-  keywords  = {vot, aging, heathy speech rate},
+  keywords  = {vot, aging, heathy speech rate, radi_stops},
 }
 
 @Article{Baum1993,
@@ -16442,7 +16462,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   pages     = {431--445},
   volume    = {44},
   doi       = {10.1006/brln.1993.1026},
-  keywords  = {vot, speech rate},
+  keywords  = {vot, speech rate, radi_stops},
   publisher = {Elsevier},
 }
 
@@ -16454,8 +16474,97 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   number    = {3},
   pages     = {291--304},
   volume    = {57},
-  keywords  = {vot, healthy speech rate},
+  keywords  = {vot, healthy speech rate, radi_stops},
   publisher = {Springer},
+}
+
+@Article{Schwab2011,
+  author    = {Schwab, Sandra},
+  journal   = {Phonetica},
+  title     = {Relationship between speech rate perceived and produced by the listener},
+  year      = {2011},
+  number    = {4},
+  pages     = {243--255},
+  volume    = {68},
+  keywords  = {speech rate, healthy speech rate, speech rate perception},
+  publisher = {Karger Publishers},
+}
+
+@Article{chiu2020,
+  author    = {Chiu, Yi-Fang and Neel, Amy and Loux, Travis},
+  journal   = {Clinical Linguistics \& Phonetics},
+  title     = {Acoustic characteristics in relation to intelligibility reduction in noise for speakers with {P}arkinson's disease},
+  year      = {2020},
+  pages     = {1--15},
+  keywords  = {intelligibility, acoustic intelligibility, noise, read me!, radi},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{Hewlett1985,
+  author    = {Hewlett, Nigel},
+  journal   = {International Journal of Language \& Communication Disorders},
+  title     = {Phonological versus phonetic disorders: some suggested modifications to the current use of the distinction},
+  year      = {1985},
+  number    = {2},
+  pages     = {155--164},
+  volume    = {20},
+  keywords  = {radi_stops, read me!, radi_stops, vot},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Justus2005,
+  author    = {Justus, Timothy and Ravizza, Susan M and Fiez, Julie A and Ivry, Richard B},
+  journal   = {Brain and Language},
+  title     = {Reduced phonological similarity effects in patients with damage to the cerebellum},
+  year      = {2005},
+  number    = {2},
+  pages     = {304--318},
+  volume    = {95},
+  keywords  = {radi_stops, perception, working memory},
+  publisher = {Elsevier},
+}
+
+@Article{beckman2011,
+  author    = {Jill Beckman and P{\'{e}}tur Helgason and Bob McMurray and Catherine Ringen},
+  journal   = {Journal of Phonetics},
+  title     = {Rate effects on {Swedish VOT}: Evidence for phonological overspecification},
+  year      = {2011},
+  month     = {jan},
+  number    = {1},
+  pages     = {39--49},
+  volume    = {39},
+  doi       = {10.1016/j.wocn.2010.11.001},
+  keywords  = {radi_stops},
+  publisher = {Elsevier {BV}},
+}
+
+@InProceedings{tripathi2020,
+  author       = {Tripathi, Ayush and Bhosale, Swapnil and Kopparapu, Sunil Kumar},
+  booktitle    = {ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  title        = {A Novel Approach for Intelligibility Assessment in Dysarthric Subjects},
+  year         = {2020},
+  organization = {IEEE},
+  pages        = {6779--6783},
+}
+
+@Article{smith2020,
+  author    = {Smith, Dante J and Stepp, Cara and Guenther, Frank H and Kearney, Elaine},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {Contributions of Auditory and Somatosensory Feedback to Vocal Motor Control},
+  year      = {2020},
+  pages     = {1--15},
+  keywords  = {read me!},
+  publisher = {ASHA},
+}
+
+@Article{Hilger2020,
+  author    = {Hilger, Allison and Cole, Jennifer and Kim, Jason H and Lester-Smith, Rosemary A and Larson, Charles},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {The Effect of Pitch Auditory Feedback Perturbations on the Production of Anticipatory Phrasal Prominence and Boundary},
+  year      = {2020},
+  pages     = {1--17},
+  keywords  = {read me!},
+  publisher = {ASHA},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
