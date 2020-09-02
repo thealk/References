@@ -16557,7 +16557,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   publisher = {ASHA},
 }
 
-@Article{Hilger2020,
+@Article{hilger2020,
   author    = {Hilger, Allison and Cole, Jennifer and Kim, Jason H and Lester-Smith, Rosemary A and Larson, Charles},
   journal   = {Journal of Speech, Language, and Hearing Research},
   title     = {The Effect of Pitch Auditory Feedback Perturbations on the Production of Anticipatory Phrasal Prominence and Boundary},
@@ -16565,6 +16565,18 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   pages     = {1--17},
   keywords  = {read me!},
   publisher = {ASHA},
+}
+
+@Article{yorkston2007dysarthria,
+  author    = {Yorkston, Kathryn M},
+  journal   = {Folia Phoniatrica et Logopaedica},
+  title     = {The degenerative dysarthrias: A window into critical clinical and research issues},
+  year      = {2007},
+  number    = {3},
+  pages     = {107--117},
+  volume    = {59},
+  keywords  = {cds640},
+  publisher = {Karger Publishers},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
