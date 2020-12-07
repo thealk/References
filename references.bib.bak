@@ -2868,15 +2868,16 @@ Thus, based on both the machine learning and human perception results, formant s
 	Title = {The variable pronunciations of word-final consonant clusters in a force aligned corpus of spoken {F}rench},
 	Year = {2014}}
 
-@article{gorman2011,
-	Author = {Gorman, Kyle and Howell, Jonathan and Wagner, Michael},
-	Journal = {Canadian Acoustics},
-	Keywords = {tvs},
-	Number = {3},
-	Pages = {192--193},
-	Title = {Prosodylab-aligner: A tool for forced alignment of laboratory speech},
-	Volume = {39},
-	Year = {2011}}
+@Article{gorman2011,
+  author   = {Gorman, Kyle and Howell, Jonathan and Wagner, Michael},
+  journal  = {Canadian Acoustics},
+  title    = {Prosodylab-aligner: A tool for forced alignment of laboratory speech},
+  year     = {2011},
+  number   = {3},
+  pages    = {192--193},
+  volume   = {39},
+  keywords = {tvs, caspd},
+}
 
 @inproceedings{schiel2004,
 	Author = {Florian Schiel},
@@ -3373,16 +3374,18 @@ Thus, based on both the machine learning and human perception results, formant s
 	Volume = {123},
 	Year = {2008}}
 
-@article{maniwa2009,
-	Author = {Maniwa, Kazumi and Jongman, Allard and Wade, Travis},
-	Journal = {The Journal of the Acoustical Society of America},
-	Note = {suggest measure fricatives at 25, 50, 75 percent},
-	Number = {6},
-	Pages = {3962--3973},
-	Publisher = {Acoustical Society of America},
-	Title = {Acoustic characteristics of clearly spoken English fricatives},
-	Volume = {125},
-	Year = {2009}}
+@Article{maniwa2009,
+  author    = {Maniwa, Kazumi and Jongman, Allard and Wade, Travis},
+  journal   = {The Journal of the Acoustical Society of America},
+  title     = {Acoustic characteristics of clearly spoken English fricatives},
+  year      = {2009},
+  note      = {suggest measure fricatives at 25, 50, 75 percent},
+  number    = {6},
+  pages     = {3962--3973},
+  volume    = {125},
+  keywords  = {caspd},
+  publisher = {Acoustical Society of America},
+}
 
 @Article{lansford2014dx,
   author    = {Kaitlin L. Lansford and Julie M. Liss},
@@ -3752,16 +3755,18 @@ Thus, based on both the machine learning and human perception results, formant s
   journal   = {Intelligibility in speech disorders},
 }
 
-@article{bradlow1996,
-	Author = {Bradlow, Ann R and Torretta, Gina M and Pisoni, David B},
-	Journal = {Speech Communication},
-	Note = {May point out that closer relationship between normal speakers intelligiblity differences and acoustic features than in disordered speech},
-	Number = {3},
-	Pages = {255--272},
-	Publisher = {Elsevier},
-	Title = {Intelligibility of normal speech I: Global and fine-grained acoustic-phonetic talker characteristics},
-	Volume = {20},
-	Year = {1996}}
+@Article{bradlow1996,
+  author    = {Bradlow, Ann R and Torretta, Gina M and Pisoni, David B},
+  journal   = {Speech Communication},
+  title     = {Intelligibility of normal speech I: Global and fine-grained acoustic-phonetic talker characteristics},
+  year      = {1996},
+  note      = {May point out that closer relationship between normal speakers intelligiblity differences and acoustic features than in disordered speech},
+  number    = {3},
+  pages     = {255--272},
+  volume    = {20},
+  keywords  = {intelligibility predictor, f0},
+  publisher = {Elsevier},
+}
 
 @article{neel1996,
 	Author = {Neel, Amy T and Bradlow, Ann R and Pisoni, David B},
@@ -12945,16 +12950,17 @@ Both individuals with PD and controls used increased duration as a means of enha
 	Volume = {75},
 	Year = {2018}}
 
-@article{allison2018,
-	Author = {Allison, Kristen M and Hustad, Katherine C},
-	Journal = {Journal of Speech, Language, and Hearing Research},
-	Keywords = {read me!, methods},
-	Number = {12},
-	Pages = {2837--2853},
-	Publisher = {ASHA},
-	Title = {Data-Driven Classification of Dysarthria Profiles in Children With Cerebral Palsy},
-	Volume = {61},
-	Year = {2018}}
+@Article{allison2018,
+  author    = {Allison, Kristen M and Hustad, Katherine C},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {Data-Driven Classification of Dysarthria Profiles in Children With Cerebral Palsy},
+  year      = {2018},
+  number    = {12},
+  pages     = {2837--2853},
+  volume    = {61},
+  keywords  = {read me!, methods, childhood dysarthria},
+  publisher = {ASHA},
+}
 
 @article{reidy2016,
 	Annote = {see methods for useful description of alternative metrics for sibilant acoustic distinctiveness to COG, including degree of sibilance as measured by spectral variance (this is really just COG sd?) and diff in db of high freq max and low freq min amplitudes},
@@ -13439,7 +13445,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {ASHA},
 }
 
-@Article{buz2016dynamically,
+@Article{buz2016,
   author    = {Buz, Esteban and Tanenhaus, Michael K and Jaeger, T Florian},
   journal   = {Journal of Memory and Language},
   title     = {Dynamically adapted context-specific hyper-articulation: Feedback from interlocutors affects speakers’ subsequent pronunciations},
@@ -13447,7 +13453,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   pages     = {68--86},
   volume    = {89},
   comment   = {used amazon mechanical turk to recruit speakers},
-  keywords  = {vot, caspd, radi_stops},
+  keywords  = {vot, caspd, radi_stops, healthy cas},
   publisher = {Elsevier},
 }
 
@@ -13599,12 +13605,13 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{whitfield2019,
   author    = {Whitfield, Jason A},
-  title     = {Exploration of Metrics for Quantifying Formant Space: Implications for Clinical Assessment of {P}arkinson Disease},
   journal   = {Perspectives of the ASHA Special Interest Groups},
+  title     = {Exploration of Metrics for Quantifying Formant Space: Implications for Clinical Assessment of {P}arkinson Disease},
   year      = {2019},
-  volume    = {4},
   number    = {2},
   pages     = {402--410},
+  volume    = {4},
+  doi       = {10.1044/2019_pers-sig19-2018-0004},
   keywords  = {acoustic distinctiveness, formants, vowel space metrics; read me!},
   publisher = {ASHA},
 }
@@ -15675,12 +15682,12 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{mucke2014,
   author    = {M{\"u}cke, Doris and Grice, Martine},
-  title     = {The effect of focus marking on supralaryngeal articulation--Is it mediated by accentuation?},
   journal   = {Journal of Phonetics},
+  title     = {The effect of focus marking on supralaryngeal articulation--Is it mediated by accentuation?},
   year      = {2014},
-  volume    = {44},
   pages     = {47--61},
-  keywords  = {caspd},
+  volume    = {44},
+  keywords  = {caspd, healthy cas},
   publisher = {Elsevier},
 }
 
@@ -15698,47 +15705,47 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{wagner2019,
   author    = {Wagner, Michael and McAuliffe, Michael},
-  title     = {The effect of focus prominence on phrasing},
   journal   = {Journal of Phonetics},
+  title     = {The effect of focus prominence on phrasing},
   year      = {2019},
-  volume    = {77},
   pages     = {100930},
-  keywords  = {caspd, prominence},
+  volume    = {77},
+  keywords  = {caspd, prominence, healthy cas},
   publisher = {Elsevier},
 }
 
 @Article{cole2019,
   author    = {Cole, Jennifer and Hualde, Jos{\'e} I and Smith, Caroline L and Eager, Christopher and Mahrt, Timothy and de Souza, Ricardo Napole{\~a}o},
-  title     = {{Sound, structure and meaning: The bases of prominence ratings in English, French and Spanish}},
   journal   = {Journal of Phonetics},
+  title     = {{Sound, structure and meaning: The bases of prominence ratings in English, French and Spanish}},
   year      = {2019},
-  volume    = {75},
   pages     = {113--147},
-  keywords  = {caspd, prominence},
+  volume    = {75},
+  keywords  = {caspd, prominence, healthy cas},
   publisher = {Elsevier},
 }
 
 @Article{cole2015,
   author    = {Cole, Jennifer},
-  title     = {Prosody in context: a review},
   journal   = {Language, Cognition and Neuroscience},
+  title     = {Prosody in context: a review},
   year      = {2015},
-  volume    = {30},
   number    = {1-2},
   pages     = {1--31},
-  keywords  = {caspd, prominence},
+  volume    = {30},
+  keywords  = {caspd, prominence, healthy cas},
   publisher = {Taylor \& Francis},
 }
 
 @Article{wagner2010,
   author    = {Wagner, Michael and Watson, Duane G},
-  title     = {Experimental and theoretical advances in prosody: A review},
   journal   = {Language and cognitive processes},
+  title     = {Experimental and theoretical advances in prosody: A review},
   year      = {2010},
-  volume    = {25},
   number    = {7-9},
   pages     = {905--945},
-  keywords  = {caspd, prominence},
+  volume    = {25},
+  keywords  = {caspd, prominence, healthy as},
   publisher = {Taylor \& Francis},
 }
 
@@ -15768,13 +15775,13 @@ Both individuals with PD and controls used increased duration as a means of enha
 
 @Article{cho2011,
   author    = {Cho, Taehong and Lee, Yoonjeong and Kim, Sahyang},
-  title     = {Communicatively driven versus prosodically driven hyper-articulation in Korean},
   journal   = {Journal of Phonetics},
+  title     = {Communicatively driven versus prosodically driven hyper-articulation in Korean},
   year      = {2011},
-  volume    = {39},
   number    = {3},
   pages     = {344--361},
-  keywords  = {caspd, prominence},
+  volume    = {39},
+  keywords  = {caspd, prominence, healthy cas},
   publisher = {Elsevier},
 }
 
@@ -15874,7 +15881,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   year      = {2012},
   number    = {4},
   volume    = {20},
-  keywords  = {intelligibility, caspd},
+  keywords  = {intelligibility, caspd, childhood dysarthria},
   publisher = {NIH Public Access},
 }
 
@@ -15906,7 +15913,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   comment   = {Major landmark book for barrier game introduction, albeit in the context of discourse and reference. 
 
 From duff2008: "In sharp contrast to studies designed to isolate production of morpho-syntactic form, early studies of collaborative referential communication were designed to follow the way speakers adjusted and modified their utterances over time in response to changes in the listeners’ knowledge and social roles (Clark, 1992; Yule, 1997). Methodologically, these studies employed a controlled referential task, or a “barrier task.” Originally devised and used by Krauss and colleagues (Krauss & Glucksberg, 1969, 1977; Krauss & Weinheimer, 1964, 1967), barrier tasks allow for elicitation of participants’ spontaneous and unscripted conversational language. Conventionally, barrier tasks consist of two people sitting across from one another while their view of the other is completely obscured. "},
-  keywords  = {caspd},
+  keywords  = {caspd, barrier tasks},
 }
 
 @Article{pell2005,
@@ -16040,7 +16047,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   title     = {Language effects on timing at the segmental and suprasegmental levels},
   year      = {2015},
   pages     = {505--529},
-  keywords  = {caspd},
+  keywords  = {caspd, healthy cas},
   publisher = {Wiley Online Library},
 }
 
@@ -16085,7 +16092,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   title     = {The perception of prosodic prominence},
   year      = {2000},
   pages     = {89--127},
-  keywords  = {caspd},
+  keywords  = {caspd, healthy cas},
 }
 
 @PhdThesis{moon2005,
@@ -16105,7 +16112,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   organization = {Acoustical Society of America},
   pages        = {060007},
   volume       = {25},
-  keywords     = {caspd},
+  keywords     = {caspd, healthy cas},
 }
 
 @Article{whitfield2018,
@@ -16128,7 +16135,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   number    = {2},
   pages     = {180--209},
   volume    = {35},
-  keywords  = {prominence},
+  keywords  = {prominence, caspd, healthy cas},
   publisher = {Elsevier},
 }
 
@@ -16401,7 +16408,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   number    = {1},
   pages     = {31--56},
   volume    = {47},
-  keywords  = {caspd, prominence, redundancy},
+  keywords  = {caspd, prominence, redundancy, healthy cas},
   publisher = {SAGE Publications Sage UK: London, England},
 }
 
@@ -16413,7 +16420,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   number    = {8},
   pages     = {1137--1146},
   volume    = {38},
-  keywords  = {caspd, prominence, redundancy, repetition},
+  keywords  = {caspd, prominence, redundancy, repetition, healthy cas},
   publisher = {Springer},
 }
 
@@ -16572,7 +16579,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   title     = {The Effect of Pitch Auditory Feedback Perturbations on the Production of Anticipatory Phrasal Prominence and Boundary},
   year      = {2020},
   pages     = {1--17},
-  keywords  = {read me!},
+  keywords  = {read me!, caspd},
   publisher = {ASHA},
 }
 
@@ -16744,6 +16751,312 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   publisher = {Wiley Online Library},
 }
 
+@Article{goldrick2013,
+  author    = {Goldrick, Matthew and Vaughn, Charlotte and Murphy, Amanda},
+  journal   = {The Journal of the Acoustical Society of America},
+  title     = {The effects of lexical neighbors on stop consonant articulation},
+  year      = {2013},
+  number    = {2},
+  pages     = {EL172--EL177},
+  volume    = {134},
+  keywords  = {caspd, healthy cas},
+  publisher = {Acoustical Society of America},
+}
+
+@Article{schertz2013,
+  author    = {Schertz, Jessamyn},
+  journal   = {Journal of Phonetics},
+  title     = {Exaggeration of featural contrasts in clarifications of misheard speech in English},
+  year      = {2013},
+  number    = {3-4},
+  pages     = {249--263},
+  volume    = {41},
+  keywords  = {caspd, mishearings, healthy cas},
+  publisher = {Elsevier},
+}
+
+@Article{kim2018,
+  author    = {Kim, Sahyang and Kim, Jiseung and Cho, Taehong},
+  journal   = {Journal of Phonetics},
+  title     = {Prosodic-structural modulation of stop voicing contrast along the VOT continuum in trochaic and iambic words in American English},
+  year      = {2018},
+  pages     = {65--80},
+  volume    = {71},
+  keywords  = {caspd, prominence, read me!, healthy cas},
+  publisher = {Elsevier},
+}
+
+@Article{baese2009mechanisms,
+  author    = {Baese-Berk, Melissa and Goldrick, Matthew},
+  journal   = {Language and cognitive processes},
+  title     = {Mechanisms of interaction in speech production},
+  year      = {2009},
+  number    = {4},
+  pages     = {527--554},
+  volume    = {24},
+  keywords  = {caspd, lexical density, neighborhood density, healthy cas},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{cho2001,
+  author    = {Cho, Taehong and Keating, Patricia A},
+  journal   = {Journal of phonetics},
+  title     = {Articulatory and acoustic studies on domain-initial strengthening in Korean},
+  year      = {2001},
+  number    = {2},
+  pages     = {155--190},
+  volume    = {29},
+  keywords  = {caspd, prominence, read me!, healthy cas},
+  publisher = {Elsevier},
+}
+
+@Article{patel2009acoustic,
+  author    = {Patel, Rupal and Campellone, Pamela},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {Acoustic and perceptual cues to contrastive stress in dysarthria},
+  year      = {2009},
+  keywords  = {caspd},
+  publisher = {ASHA},
+}
+
+@Article{,
+  keywords = {childhood dysarthria},
+}
+{scholderle2020@article{millichap1998acquired,  title={Acquired Childhood Dysarthria Classification},  author={Millichap, J},  journal={Pediatric Neurology Briefs},  volume={12},  number={1},  year={1998},  publisher={Pediatric Neurology Briefs Publishers}},
+  author    = {Sch{\"o}lderle, Theresa and Haas, Elisabet and Ziegler, Wolfram},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {Age Norms for Auditory-Perceptual Neurophonetic Parameters: A Prerequisite for the Assessment of Childhood Dysarthria},
+  year      = {2020},
+  number    = {4},
+  pages     = {1071--1082},
+  volume    = {63},
+  keywords  = {childhood dysarthria},
+  publisher = {ASHA},
+}
+
+@Article{millichap1998,
+  author    = {Millichap, J},
+  journal   = {Pediatric Neurology Briefs},
+  title     = {Acquired Childhood Dysarthria Classification},
+  year      = {1998},
+  number    = {1},
+  volume    = {12},
+  keywords  = {childhood dysarthria},
+  publisher = {Pediatric Neurology Briefs Publishers},
+}
+
+@Article{mccauley2008review,
+  author    = {McCauley, Rebecca J and Strand, Edythe A},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {A review of standardized tests of nonverbal oral and speech motor performance in children},
+  year      = {2008},
+  keywords  = {childhood dysarthria},
+  publisher = {ASHA},
+}
+
+@Article{morgan2010,
+  author    = {Morgan, AT and Li{\'e}geois, F},
+  journal   = {Folia Phoniatrica et Logopaedica},
+  title     = {Re-thinking diagnostic classification of the dysarthrias: A developmental perspective},
+  year      = {2010},
+  number    = {3},
+  pages     = {120--126},
+  volume    = {62},
+  keywords  = {childhood dysarthria},
+  publisher = {Karger Publishers},
+}
+
+@Article{pennington2016,
+  author    = {Pennington, Lindsay and Parker, Naomi K and Kelly, Helen and Miller, Nick},
+  journal   = {Cochrane Database of Systematic Reviews},
+  title     = {Speech therapy for children with dysarthria acquired before three years of age},
+  year      = {2016},
+  number    = {7},
+  keywords  = {childhood dysarthria},
+  publisher = {John Wiley \& Sons, Ltd},
+}
+
+@Article{,
+  keywords = {masks},
+}
+
+@Article{magee2020,
+  author    = {Magee, Michelle and Lewis, Courtney and Noffs, Gustavo and Reece, Hannah and Chan, Jess CS and Zaga, Charissa J and Paynter, Camille and Birchall, Olga and Azocar, Sandra Rojas and Ediriweera, Angela and others},
+  journal   = {bioRxiv},
+  title     = {Effects of face masks on acoustic analysis and speech perception: Implications for peri-pandemic protocols},
+  year      = {2020},
+  keywords  = {masks},
+  publisher = {Cold Spring Harbor Laboratory},
+}
+
+@Article{ribeiro2020effect,
+  author    = {Ribeiro, Vanessa Veis and Dassie-Leite, Ana Paula and Pereira, Eliane Cristina and Santos, Allicia Diely Nunes and Martins, Perla and de Alencar Irineu, Roxane},
+  journal   = {Journal of Voice},
+  title     = {Effect of Wearing a Face Mask on Vocal Self-Perception during a Pandemic},
+  year      = {2020},
+  keywords  = {masks},
+  publisher = {Elsevier},
+}
+@article{hustad2010classification,
+  title={Classification of speech and language profiles in 4-year-old children with cerebral palsy: A prospective preliminary study},
+  author={Hustad, Katherine C and Gorton, Kristin and Lee, Jimin},
+  journal={Journal of Speech, Language, and Hearing Research},
+  year={2010},
+  publisher={ASHA}
+}
+@Article{shriberg2019estimates,
+  author    = {Shriberg, Lawrence D and Kwiatkowski, Joan and Mabie, Heather L},
+  journal   = {Clinical linguistics \& phonetics},
+  title     = {Estimates of the prevalence of motor speech disorders in children with idiopathic speech delay},
+  year      = {2019},
+  number    = {8},
+  pages     = {679--706},
+  volume    = {33},
+  keywords  = {childhood dysarthria},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{shriberg2009nonword,
+  author    = {Shriberg, Lawrence D and Lohmeier, Heather L and Campbell, Thomas F and Dollaghan, Christine A and Green, Jordan R and Moore, Christopher A},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {A nonword repetition task for speakers with misarticulations: The Syllable Repetition Task (SRT)},
+  year      = {2009},
+  keywords  = {childhood dysarthria},
+  publisher = {ASHA},
+}
+
+@Article{rudge2020,
+  author   = {Rudge, Amanda M and Sonneveldt, V and Brookes, BM},
+  journal  = {The Moog Center for Deaf Education White Paper (Moog Center for Deaf Education, St. Louis, MO)},
+  title    = {The effects of face coverings and remote microphone technology on speech perception in the classroom},
+  year     = {2020},
+  keywords = {masks},
+}
+
+@Article{,
+  groups = {childhood apraxia of speech},
+}
+
+@Article{overby2019volubility,
+  author    = {Overby, Megan S and Caspari, Susan S and Schreiber, James},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {Volubility, consonant emergence, and syllabic structure in infants and toddlers later diagnosed with childhood apraxia of speech, speech sound disorder, and typical development: A retrospective video analysis},
+  year      = {2019},
+  number    = {6},
+  pages     = {1657--1675},
+  volume    = {62},
+  groups    = {childhood apraxia of speech},
+  publisher = {ASHA},
+}
+
+@Article{vanbrenk2019,
+  author   = {{van Brenk}, Frits and Tjaden, Kris and Kain, Alexander},
+  journal  = {{ICPhS}},
+  title    = {Identifying acoustic causes of speaker-dependent variation in slowed speech intelligibility: A hybridization approach},
+  year     = {2019},
+  keywords = {intelligibility predictor},
+}
+
+@Article{chiu2019,
+  author    = {Chiu, Yi-Fang and Forrest, Karen and Loux, Travis},
+  journal   = {American journal of speech-language pathology},
+  title     = {Relationship Between {F2} Slope and Intelligibility in {P}arkinson's Disease: Lexical Effects and Listening Environment},
+  year      = {2019},
+  number    = {2S},
+  pages     = {887--894},
+  volume    = {28},
+  keywords  = {intelligibility predictor},
+  publisher = {ASHA},
+}
+{scholderle2020@article{millichap1998acquired,  title={Acquired Childhood Dysarthria Classification},  author={Millichap, J},  journal={Pediatric Neurology Briefs},  volume={12},  number={1},  year={1998},  publisher={Pediatric Neurology Briefs Publishers}}{scholderle2020
+
+@Article{millichap1998acquired,
+  author    = {Millichap, J},
+  journal   = {Pediatric Neurology Briefs},
+  title     = {Acquired Childhood Dysarthria Classification},
+  year      = {1998},
+  number    = {1},
+  volume    = {12},
+  keywords  = {read me!},
+  publisher = {Pediatric Neurology Briefs Publishers},
+}
+
+@InProceedings{kuruvilla2019,
+  author       = {Kuruvilla-Dugdale, Mili and Threlkeld, Katie and Salazar, Mary and Nolan, Gwen and Heidrick, Lindsey},
+  booktitle    = {Seminars in speech and language},
+  title        = {A Comparative Study of Auditory-Perceptual Speech Measures for the Early Detection of Mild Speech Impairments},
+  year         = {2019},
+  number       = {5},
+  organization = {NIH Public Access},
+  pages        = {394},
+  volume       = {40},
+  keywords     = {intelligibility methods},
+}
+
+@Article{breitenstein2001,
+  author    = {Breitenstein, Caterina and Van Lancker, Diana and Daum, Irene and Waters, Cheryl H},
+  journal   = {Brain and cognition},
+  title     = {Impaired perception of vocal emotions in Parkinson's disease: influence of speech time processing and executive functioning},
+  year      = {2001},
+  number    = {2},
+  pages     = {277--314},
+  volume    = {45},
+  comment   = {see in combo with forrest1998 re: perception of one's own speech rate},
+  keywords  = {rate},
+  publisher = {Elsevier},
+}
+
+@Article{knowles2020comparison,
+  author    = {Knowles, Thea and Adams, Scott G and Page, Allyson and Cushnie-Sparrow, Daryn and Jog, Mandar},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {A Comparison of Speech Amplification and Personal Communication Devices for Hypophonia},
+  year      = {2020},
+  number    = {8},
+  pages     = {2695--2712},
+  volume    = {63},
+  keywords  = {fma, kamp},
+  publisher = {ASHA},
+}
+
+@Article{falk2015,
+  author    = {Falk, Tiago H and Parsa, Vijay and Santos, Joao F and Arehart, Kathryn and Hazrati, Oldooz and Huber, Rainer and Kates, James M and Scollie, Susan},
+  journal   = {IEEE signal processing magazine},
+  title     = {Objective quality and intelligibility prediction for users of assistive listening devices: Advantages and limitations of existing tools},
+  year      = {2015},
+  number    = {2},
+  pages     = {114--124},
+  volume    = {32},
+  keywords  = {kamp, read me!},
+  publisher = {IEEE},
+}
+
+@Unpublished{brody2020,
+  author   = {Brody, Alexa},
+  title    = {Assistive Listening Devices: A Guide},
+  year     = {2020},
+  keywords = {kamp},
+}
+
+@TechReport{ullmann2016can,
+  author      = {Ullmann, Raphael},
+  institution = {Sciences et Techniques de l’Ing{\'e}nieur (STI)},
+  title       = {" Can you hear me now?"---Automatic assessment of background noise intrusiveness and speech intelligibility in telecommunications},
+  year        = {2016},
+  keywords    = {kamp},
+}
+
+@Article{tanaka2011rate,
+  author    = {Tanaka, Akihiro and Sakamoto, Shuichi and Suzuki, Y{\^o}iti},
+  journal   = {Acoustical science and technology},
+  title     = {Effects of pause duration and speech rate on sentence intelligibility in younger and older adult listeners},
+  year      = {2011},
+  number    = {6},
+  pages     = {264--267},
+  volume    = {32},
+  keywords  = {healthy speech rate, read me!},
+  publisher = {Acoustical Society of Japan},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -16755,7 +17068,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
 1 KeywordGroup:Multiple Baseline Design\;0\;keywords\;multiple baseline\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Resynthesis\;0\;keywords\;resynthesis\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Ataxia\;0\;keywords\;ataxia\;0\;0\;1\;\;\;\;;
-1 KeywordGroup:Speech rate\;0\;keywords\;rate\;0\;0\;0\;\;\;\;;
+1 KeywordGroup:Speech rate\;0\;keywords\;rate\;0\;0\;1\;\;\;\;;
 2 KeywordGroup:Rate reduction\;0\;keywords\;rate reduction\;0\;0\;0\;\;\;\;;
 2 KeywordGroup:Healthy speech & rate\;0\;keywords\;healthy speech rate\;0\;0\;1\;\;\;\;;
 2 KeywordGroup:Clear speech\;0\;keywords\;clear speech\;0\;0\;1\;\;\;\;;
@@ -16779,6 +17092,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
 1 SearchGroup:stats\;0\;stats\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Disordered corpora\;0\;keywords\;corpora\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:CASPD\;0\;keywords\;caspd\;0\;0\;1\;\;\;\;;
+2 KeywordGroup:healthy cas\;0\;keywords\;healthy cas\;0\;0\;1\;0x8a8a8aff\;\;\;;
 1 KeywordGroup:speech stimuli noise\;0\;keywords\;speech stimuli noise\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:confusion matrix\;0\;keywords\;confusion matrix\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:acoustics\;0\;keywords\;acoustics\;0\;0\;0\;\;\;\;;
@@ -16790,6 +17104,9 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
 1 KeywordGroup:manuscript specific\;0\;\;manuscript specific\;0\;0\;1\;0x8a8a8aff\;\;\;;
 2 KeywordGroup:radi_voice\;0\;keywords\;radi_voice\;0\;0\;1\;0x8a8a8aff\;\;\;;
 2 KeywordGroup:radi_stops\;0\;keywords\;radi_stops\;0\;0\;1\;0x8a8a8aff\;\;\;;
+1 KeywordGroup:childhood dysarthria\;0\;keywords\;childhood dysarthria\;0\;0\;1\;0x8a8a8aff\;\;\;;
+1 KeywordGroup:masks\;0\;keywords\;masks\;0\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:childhood apraxia of speech\;0\;1\;0x8a8a8aff\;\;\;;
 }
 
 @Comment{jabref-meta: groupsversion:
