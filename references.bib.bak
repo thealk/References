@@ -17056,6 +17056,113 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   keywords  = {healthy speech rate, read me!},
   publisher = {Acoustical Society of Japan},
 }
+@article{chen2017analyzing,
+  title={Analyzing proportion scores as outcomes for prevention trials: A statistical primer},
+  author={Chen, Kehui and Cheng, Yu and Berkout, Olga and Lindhiem, Oliver},
+  journal={Prevention Science},
+  volume={18},
+  number={3},
+  pages={312--321},
+  year={2017},
+  publisher={Springer}
+}
+
+@Article{keintz2007,
+  author    = {Keintz, Connie K and Bunton, Kate and Hoit, Jeannette D},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {Influence of visual information on the intelligibility of dysarthric speech},
+  year      = {2007},
+  keywords  = {intelligibility methods, task},
+  publisher = {ASHA},
+}
+
+@Article{,
+  groups = {radi_intell},
+}
+
+@Article{laan1997,
+  author    = {Laan, Gitta PM},
+  journal   = {Speech Communication},
+  title     = {The contribution of intonation, segmental durations, and spectral features to the perception of a spontaneous and a read speaking style},
+  year      = {1997},
+  number    = {1},
+  pages     = {43--65},
+  volume    = {22},
+  groups    = {radi_intell},
+  keywords  = {radi_intell, task differences},
+  publisher = {Elsevier},
+}
+
+@Article{nakamura2008,
+  author    = {Nakamura, Masanobu and Iwano, Koji and Furui, Sadaoki},
+  journal   = {Computer Speech \& Language},
+  title     = {Differences between acoustic characteristics of spontaneous and read speech and their effects on speech recognition performance},
+  year      = {2008},
+  number    = {2},
+  pages     = {171--184},
+  volume    = {22},
+  groups    = {radi_intell},
+  keywords  = {radi_intell, task differences},
+  publisher = {Elsevier},
+}
+
+@InProceedings{furui2003,
+  author    = {Furui, Sadaoki},
+  booktitle = {ISCA \& IEEE workshop on spontaneous speech processing and recognition},
+  title     = {Recent advances in spontaneous speech recognition and understanding},
+  year      = {2003},
+  groups    = {radi_intell},
+  keywords  = {radi_intell, task differences},
+}
+
+@InProceedings{shinozaki2002,
+  author       = {Shinozaki, Takahiro and Furui, Sadaoki},
+  booktitle    = {2002 IEEE International Conference on Acoustics, Speech, and Signal Processing},
+  title        = {Analysis on individual differences in automatic transcription of spontaneous presentations},
+  year         = {2002},
+  organization = {IEEE},
+  pages        = {I--729},
+  volume       = {1},
+  groups       = {radi_intell},
+  keywords     = {radi_intell, task differences},
+}
+
+@Article{hacker2020,
+  author    = {Hacker, Mallory L and Turchan, Maxim and Heusinkveld, Lauren E and Currie, Amanda D and Millan, Sarah H and Molinari, Anna L and Konrad, Peter E and Davis, Thomas L and Phibbs, Fenna T and Hedera, Peter and others},
+  journal   = {Neurology},
+  title     = {Deep brain stimulation in early-stage Parkinson disease: Five-year outcomes},
+  year      = {2020},
+  number    = {4},
+  pages     = {e393--e401},
+  volume    = {95},
+  groups    = {radi_intell},
+  keywords  = {dbs},
+  publisher = {AAN Enterprises},
+}
+
+@Article{warton2011,
+  author    = {Warton, David I and Hui, Francis KC},
+  journal   = {Ecology},
+  title     = {The arcsine is asinine: the analysis of proportions in ecology},
+  year      = {2011},
+  number    = {1},
+  pages     = {3--10},
+  volume    = {92},
+  keywords  = {stats, proportions, logit},
+  publisher = {Wiley Online Library},
+}
+
+@Article{baum2008stata,
+  author    = {Baum, Christopher F},
+  journal   = {The Stata Journal},
+  title     = {Stata tip 63: Modeling proportions},
+  year      = {2008},
+  number    = {2},
+  pages     = {299--303},
+  volume    = {8},
+  keywords  = {stats, proportions, logit},
+  publisher = {SAGE Publications Sage CA: Los Angeles, CA},
+}
 
 @Comment{jabref-meta: databaseType:bibtex;}
 
@@ -17104,6 +17211,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
 1 KeywordGroup:manuscript specific\;0\;\;manuscript specific\;0\;0\;1\;0x8a8a8aff\;\;\;;
 2 KeywordGroup:radi_voice\;0\;keywords\;radi_voice\;0\;0\;1\;0x8a8a8aff\;\;\;;
 2 KeywordGroup:radi_stops\;0\;keywords\;radi_stops\;0\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:radi_intell\;0\;1\;0x8a8a8aff\;\;\;;
 1 KeywordGroup:childhood dysarthria\;0\;keywords\;childhood dysarthria\;0\;0\;1\;0x8a8a8aff\;\;\;;
 1 KeywordGroup:masks\;0\;keywords\;masks\;0\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:childhood apraxia of speech\;0\;1\;0x8a8a8aff\;\;\;;
