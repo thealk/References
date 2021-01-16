@@ -16818,10 +16818,6 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   keywords  = {caspd},
   publisher = {ASHA},
 }
-
-@Article{,
-  keywords = {childhood dysarthria},
-}
 {scholderle2020@article{millichap1998acquired,  title={Acquired Childhood Dysarthria Classification},  author={Millichap, J},  journal={Pediatric Neurology Briefs},  volume={12},  number={1},  year={1998},  publisher={Pediatric Neurology Briefs Publishers}},
   author    = {Sch{\"o}lderle, Theresa and Haas, Elisabet and Ziegler, Wolfram},
   journal   = {Journal of Speech, Language, and Hearing Research},
@@ -16874,10 +16870,6 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   number    = {7},
   keywords  = {childhood dysarthria},
   publisher = {John Wiley \& Sons, Ltd},
-}
-
-@Article{,
-  keywords = {masks},
 }
 
 @Article{magee2020,
@@ -16933,10 +16925,6 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   keywords = {masks},
 }
 
-@Article{,
-  groups = {childhood apraxia of speech},
-}
-
 @Article{overby2019volubility,
   author    = {Overby, Megan S and Caspari, Susan S and Schreiber, James},
   journal   = {Journal of Speech, Language, and Hearing Research},
@@ -16968,7 +16956,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   keywords  = {intelligibility predictor},
   publisher = {ASHA},
 }
-{scholderle2020@article{millichap1998acquired,  title={Acquired Childhood Dysarthria Classification},  author={Millichap, J},  journal={Pediatric Neurology Briefs},  volume={12},  number={1},  year={1998},  publisher={Pediatric Neurology Briefs Publishers}}{scholderle2020
+{scholderle2020
 
 @Article{millichap1998acquired,
   author    = {Millichap, J},
@@ -17076,10 +17064,6 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   publisher = {ASHA},
 }
 
-@Article{,
-  groups = {radi_intell},
-}
-
 @Article{laan1997,
   author    = {Laan, Gitta PM},
   journal   = {Speech Communication},
@@ -17162,6 +17146,127 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   volume    = {8},
   keywords  = {stats, proportions, logit},
   publisher = {SAGE Publications Sage CA: Los Angeles, CA},
+}
+
+@Article{quinn1987,
+  author    = {Quinn, Niall and Critchley, Peter and Marsden, C David},
+  journal   = {Movement Disorders},
+  title     = {Young onset Parkinson's disease},
+  year      = {1987},
+  number    = {2},
+  pages     = {73--91},
+  volume    = {2},
+  publisher = {Wiley Online Library},
+}
+
+@Article{dowling2007,
+  author    = {Dowling, Maura},
+  journal   = {International journal of nursing studies},
+  title     = {From Husserl to van Manen. A review of different phenomenological approaches},
+  year      = {2007},
+  number    = {1},
+  pages     = {131--142},
+  volume    = {44},
+  keywords  = {humanities institute fellowship},
+  publisher = {Elsevier},
+}
+
+@Article{wilding2005,
+  author    = {Wilding, Clare and Whiteford, Gail},
+  journal   = {OTJR: Occupation, Participation and Health},
+  title     = {Phenomenological research: An exploration of conceptual, theoretical, and practical issues},
+  year      = {2005},
+  number    = {3},
+  pages     = {98--104},
+  volume    = {25},
+  keywords  = {humanities institute fellowship},
+  publisher = {SAGE Publications Sage CA: Los Angeles, CA},
+}
+
+@Article{yorkston2017,
+  author    = {Yorkston, Kathryn and Baylor, Carolyn and Britton, Deanna},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {Speech versus speaking: The experiences of people with Parkinson's disease and implications for intervention},
+  year      = {2017},
+  number    = {2S},
+  pages     = {561--568},
+  volume    = {26},
+  publisher = {ASHA},
+}
+
+@Article{mach2020,
+  author    = {Mach, Helen and Baylor, Carolyn and Hunting Pompon, Rebecca and Yorkston, Kathryn},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {Beyond the Patient: A Mixed-Methods Inquiry Into Family Members' Involvement in the Treatment of Parkinson's Disease to Target Third-Party Disability},
+  year      = {2020},
+  pages     = {1--17},
+  publisher = {ASHA},
+}
+
+@Book{duffy2019,
+  author    = {Duffy, Joseph R},
+  publisher = {Elsevier Health Sciences},
+  title     = {Motor Speech Disorders E-Book: Substrates, Differential Diagnosis, and Management},
+  year      = {2019},
+}
+
+@Article{knowles2020,
+  author    = {Knowles, Thea and Adams, Scott G and Page, Allyson and Cushnie-Sparrow, Daryn and Jog, Mandar},
+  journal   = {Journal of Speech, Language, and Hearing Research},
+  title     = {A Comparison of Speech Amplification and Personal Communication Devices for Hypophonia},
+  year      = {2020},
+  number    = {8},
+  pages     = {2695--2712},
+  volume    = {63},
+  publisher = {ASHA},
+}
+
+@Article{balas2000,
+  author  = {Balas, E Andrew and Boren, Suzanne A},
+  title   = {Managing clinical knowledge for health care improvement},
+  year    = {2000},
+  comment = {17 years from research to practice gap},
+}
+
+@Article{izaryk2017,
+  author    = {Izaryk, Kristen and Skarakis-Doyle, Elizabeth},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {Using the Delphi technique to explore complex concepts in speech-language pathology: an illustrative example from Children's social communication},
+  year      = {2017},
+  number    = {4},
+  pages     = {1225--1235},
+  volume    = {26},
+  publisher = {ASHA},
+}
+
+@Article{baylor2005,
+  author    = {Baylor, Carolyn R and Yorkston, Kathryn M and Eadie, Tanya L},
+  journal   = {Journal of Communication Disorders},
+  title     = {The consequences of spasmodic dysphonia on communication-related quality of life: A qualitative study of the insider's experiences},
+  year      = {2005},
+  number    = {5},
+  pages     = {395--419},
+  volume    = {38},
+  publisher = {Elsevier},
+}
+
+@Article{yorkston2001,
+  author    = {Yorkston, Kathryn M and Klasner, Estelle R and Swanson, Kristen M},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {Communication in context: A qualitative study of the experiences of individuals with multiple sclerosis},
+  year      = {2001},
+  publisher = {ASHA},
+}
+
+@Article{torrence2016,
+  author    = {Torrence, Janaki M and Baylor, Carolyn R and Yorkston, Kathryn M and Spencer, Kristie A},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {Addressing communicative participation in treatment planning for adults: A survey of US speech-language pathologists},
+  year      = {2016},
+  number    = {3},
+  pages     = {355--370},
+  volume    = {25},
+  publisher = {ASHA},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

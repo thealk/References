@@ -1,0 +1,44 @@
+---
+title: "make-bib: HI Faculty Fellowship Proposal"
+author: "Thea"
+date: "15/01/2021"
+output:
+  bookdown::word_document2:
+    fig_caption: yes
+    md_extensions: +footnotes
+    #reference_docx: ../custom_reference.docx
+    toc: yes
+include.latex: TRUE
+csl: ../csl_files/apa7.csl
+bibliography: ../references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+@logemann1978
+@adams2009
+@andreetta2016
+@greene1972
+@bertrand2009
+
+@dowling2007
+@wilding2005
+@yorkston2017
+@mach2020
+
+@wirdefeldt2011
+@duffy2019
+@clark2014
+@ramig2004
+@olson2019
+@scott1983
+@knowles2020
+@balas2000
+@izaryk2017
+@baylor2005
+@yorkston2001
+@torrence2016
+
+# Bibliography
