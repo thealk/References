@@ -13956,11 +13956,11 @@ Both individuals with PD and controls used increased duration as a means of enha
   url          = {https://github.com/drammock/praat-semiauto/blob/master/MixSpeechNoise.praat},
 }
 
-@Manual{r,
+@Manual{r2018,
   title        = {R: A Language and Environment for Statistical Computing},
+  address      = {Vienna, Austria},
   author       = {{R Core Team}},
   organization = {R Foundation for Statistical Computing},
-  address      = {Vienna, Austria},
   year         = {2018},
   keywords     = {r package},
   url          = {https://www.R-project.org/},
@@ -17445,6 +17445,24 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   volume    = {4},
   keywords  = {dbs},
   publisher = {Frontiers},
+}
+
+@Manual{rms,
+  title    = {{Package 'rms': Regression Modeling Strategies}},
+  author   = {Frank E {Harrell Jr}},
+  note     = {R package version 6.0-0},
+  year     = {2020},
+  keywords = {r packages, splines},
+  url      = {https://CRAN.R-project.org/package=rms},
+}
+
+@Manual{r2020,
+  title        = {{R: A Language and Environment for Statistical Computing}},
+  address      = {Vienna, Austria},
+  author       = {{R Core Team}},
+  organization = {R Foundation for Statistical Computing},
+  year         = {2020},
+  url          = {https://www.R-project.org/},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
