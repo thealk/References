@@ -3708,11 +3708,12 @@ Thus, based on both the machine learning and human perception results, formant s
 
 @InCollection{lindblom1990,
   author    = {Lindblom, Bj{\"o}rn},
-  title     = {Explaining phonetic variation: A sketch of the {H}\&{H} theory},
   booktitle = {Speech production and speech modelling},
   publisher = {Springer},
+  title     = {Explaining phonetic variation: A sketch of the {H}\&{H} theory},
   year      = {1990},
   pages     = {403--439},
+  keywords  = {caspd, prominence},
 }
 
 @article{lindblom1996,
@@ -13881,7 +13882,7 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Taylor \& Francis},
 }
 
-@Article{Chodroff2017,
+@Article{chodroff2017,
   author    = {Eleanor Chodroff and Colin Wilson},
   journal   = {Journal of Phonetics},
   title     = {Structure in talker-specific phonetic realization: Covariation of stop consonant {VOT} in {A}merican {E}nglish},
@@ -14359,11 +14360,11 @@ Both individuals with PD and controls used increased duration as a means of enha
   publisher = {Erlbaum Mahwah, NJ},
 }
 
-@Manual{rms,
+@Manual{rms2019,
   title    = {{rms}: Regression Modeling Strategies},
   author   = {Frank E {Harrell Jr}},
-  year     = {2019},
   note     = {R package version 5.1-3},
+  year     = {2019},
   keywords = {r package},
   url      = {https://CRAN.R-project.org/package=rms},
 }
@@ -16240,7 +16241,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   publisher = {The Korean Association of Speech-Language Pathologisis},
 }
 
-@Article{Hochstadt2006,
+@Article{hochstadt2006,
   author    = {Hochstadt, Jesse and Nakano, Hiroko and Lieberman, Philip and Friedman, Joseph},
   journal   = {Brain and language},
   title     = {The roles of sequencing and verbal working memory in sentence comprehension deficits in Parkinson’s disease},
@@ -16476,7 +16477,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   keywords  = {vot, aging, heathy speech rate, radi_stops},
 }
 
-@Article{Baum1993,
+@Article{baum1993,
   author    = {Baum, Shari R and Ryan, Laurie},
   journal   = {Brain and Language},
   title     = {Rate of speech effects in aphasia: voice onset time},
@@ -17413,7 +17414,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   keywords = {rate},
 }
 
-@Article{kim2013prosodic,
+@Article{kim2013,
   author    = {Kim, Sahyang and Cho, Taehong},
   journal   = {The Journal of the Acoustical Society of America},
   title     = {Prosodic boundary information modulates phonetic categorization},
@@ -17425,7 +17426,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   publisher = {Acoustical Society of America},
 }
 
-@Article{mitterer2016does,
+@Article{mitterer2016,
   author    = {Mitterer, Holger and Cho, Taehong and Kim, Sahyang},
   journal   = {Journal of Phonetics},
   title     = {How does prosody influence speech categorization?},
@@ -17447,7 +17448,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   publisher = {Frontiers},
 }
 
-@Manual{rms,
+@Manual{rms2020,
   title    = {{Package 'rms': Regression Modeling Strategies}},
   author   = {Frank E {Harrell Jr}},
   note     = {R package version 6.0-0},
@@ -17465,6 +17466,183 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
   url          = {https://www.R-project.org/},
 }
 
+@Article{skodda2009,
+  author    = {Skodda, Sabine and Rinsche, Heiko and Schlegel, Uwe},
+  journal   = {Movement Disorders},
+  title     = {Progression of dysprosody in {Parkinson's} disease over time—a longitudinal study},
+  year      = {2009},
+  number    = {5},
+  pages     = {716--722},
+  volume    = {24},
+  keywords  = {caspd},
+  publisher = {Wiley Online Library},
+}
+
+@Article{martens2011,
+  author    = {Martens, Heidi and Van Nuffelen, Gwen and Cras, Patrick and Pickut, Barbara and De Letter, Miet and De Bodt, Marc},
+  journal   = {Parkinson’s Disease},
+  title     = {Assessment of prosodic communicative efficiency in {Parkinson's} disease as judged by professional listeners},
+  year      = {2011},
+  volume    = {2011},
+  comment   = {Ax task of reading & imitation: for focus prominence, explicit instruction to stress underlined word},
+  keywords  = {caspd},
+  publisher = {Hindawi},
+}
+
+@Article{hazan2011,
+  author    = {Hazan, Valerie and Baker, Rachel},
+  journal   = {The Journal of the Acoustical Society of America},
+  title     = {Acoustic-phonetic characteristics of speech produced with communicative intent to counter adverse listening conditions},
+  year      = {2011},
+  number    = {4},
+  pages     = {2139--2152},
+  volume    = {130},
+  keywords  = {caspd, prominence, diapix},
+  publisher = {Acoustical Society of America},
+}
+
+@Article{hazan2018,
+  author    = {Hazan, Valerie and Tuomainen, Outi and Kim, Jeesun and Davis, Christopher and Sheffield, Benjamin and Brungart, Douglas},
+  journal   = {The Journal of the Acoustical Society of America},
+  title     = {Clear speech adaptations in spontaneous speech produced by young and older adults},
+  year      = {2018},
+  number    = {3},
+  pages     = {1331--1346},
+  volume    = {144},
+  keywords  = {caspd, clear speech, spontaneous speech},
+  publisher = {Acoustical Society of America},
+}
+
+@Article{tuomainen2019,
+  author    = {Tuomainen, Outi and Hazan, Valerie and Davis, Chris and Kim, Jeesun},
+  journal   = {The Journal of the Acoustical Society of America},
+  title     = {Intelligibility of conversational and clear speech in young and older talkers as perceived by young and older listeners},
+  year      = {2019},
+  number    = {1},
+  pages     = {EL28--EL33},
+  volume    = {146},
+  keywords  = {caspd},
+  publisher = {Acoustical Society of America},
+}
+
+@Article{waito2021,
+  author    = {Waito, Ashley A and Wehbe, Farah and Marzouqah, Reeman and Barnett, Carolina and Shellikeri, Sanjana and Cui, Cindy and Abrahao, Agessandro and Zinman, Lorne and Green, Jordan R and Yunusova, Yana},
+  journal   = {American Journal of Speech-Language Pathology},
+  title     = {Validation of Articulatory Rate and Imprecision Judgments in Speech of Individuals With Amyotrophic Lateral Sclerosis},
+  year      = {2021},
+  number    = {1},
+  pages     = {137--149},
+  volume    = {30},
+  publisher = {ASHA},
+}
+
+@Article{hazan2018aging,
+  author    = {Hazan, Valerie and Tuomainen, Outi and Tu, Lilian and Kim, Jeesun and Davis, Chris and Brungart, Douglas and Sheffield, Benjamin},
+  journal   = {Hearing research},
+  title     = {How do aging and age-related hearing loss affect the ability to communicate effectively in challenging communicative conditions?},
+  year      = {2018},
+  pages     = {33--41},
+  volume    = {369},
+  keywords  = {healthy cas},
+  publisher = {Elsevier},
+}
+
+@InProceedings{das2020,
+  author       = {Das, Rohan Kumar and Li, Haizhou},
+  booktitle    = {2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
+  title        = {Classification of Speech with and without Face Mask using Acoustic Features},
+  year         = {2020},
+  organization = {IEEE},
+  pages        = {747--752},
+  keywords     = {masks},
+}
+
+@Article{diehl1976,
+  author    = {Diehl, Randy},
+  journal   = {Perception \& Psychophysics},
+  title     = {Feature analyzers for the phonetic dimension stop vs. continuant},
+  year      = {1976},
+  number    = {3},
+  pages     = {267--272},
+  volume    = {19},
+  publisher = {Springer},
+}
+
+@Article{diehl1980,
+  author    = {Diehl, Randy L and Souther, Arthur F and Convis, Charles L},
+  journal   = {Perception \& Psychophysics},
+  title     = {Conditions on rate normalization in speech perception},
+  year      = {1980},
+  number    = {5},
+  pages     = {435--443},
+  volume    = {27},
+  keywords  = {radi_stops},
+  publisher = {Springer},
+}
+
+@Article{mchenry2003,
+  author    = {McHenry, Monica A},
+  title     = {The effect of pacing strategies on the variability of speech movement sequences in dysarthria},
+  year      = {2003},
+  keywords  = {rate},
+  publisher = {ASHA},
+}
+
+@InProceedings{randazzo2020,
+  author       = {Randazzo, Melissa and Koenig, Laura L and Priefer, Ryan},
+  booktitle    = {Proceedings of Meetings on Acoustics 179ASA},
+  title        = {The effect of face masks on the intelligibility of unpredictable sentences},
+  year         = {2020},
+  number       = {1},
+  organization = {Acoustical Society of America},
+  pages        = {032001},
+  volume       = {42},
+  keywords     = {masks},
+}
+
+@Article{nguyen2021,
+  author    = {Nguyen, Duy Duong and McCabe, Patricia and Thomas, Donna and Purcell, Alison and Doble, Maree and Novakovic, Daniel and Chacon, Antonia and Madill, Catherine},
+  journal   = {Scientific Reports},
+  title     = {Acoustic voice characteristics with and without wearing a facemask},
+  year      = {2021},
+  number    = {1},
+  pages     = {1--11},
+  volume    = {11},
+  keywords  = {masks},
+  publisher = {Nature Publishing Group},
+}
+
+@InProceedings{mcnaney2016,
+  author    = {McNaney, R{\'o}is{\'\i}n and Othman, Mohammad and Richardson, Dan and Dunphy, Paul and Amaral, Telmo and Miller, Nick and Stringer, Helen and Olivier, Patrick and Vines, John},
+  booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
+  title     = {Speeching: Mobile crowdsourced speech assessment to support self-monitoring and management for people with Parkinson's},
+  year      = {2016},
+  pages     = {4464--4476},
+  comment   = {3 raters per stimulus},
+  keywords  = {crowdsourcing},
+}
+
+@PhdThesis{exner2019,
+  author   = {Exner, Andrew Herbert},
+  school   = {Purdue University Graduate School},
+  title    = {The Effects of Speech Tasks on the Prosody of People with {P}arkinson Disease},
+  year     = {2019},
+  keywords = {caspd},
+}
+
+@Article{lowit2001,
+  author    = {Lowit-Leuschel, Anja and Docherty, Gerard J},
+  journal   = {Logopedics Phoniatrics Vocology},
+  title     = {Prosodic variation across sampling tasks in normal and dysarthric speakers},
+  year      = {2001},
+  number    = {4},
+  pages     = {151--164},
+  volume    = {26},
+  comment   = {From discussion: "To summarise the findings of this study, the statistical analysis indicates that the control speakers showed signifcant differences between the sampling tasks in three of the ten investigated parameters. The dysarthric group had no significant differences be- tween reading and conversation. The statistical re- sults thus indicate, on the one hand, that a variety of prosodic parameters was affected by the nature of the sampling task in normal speakers, confirming results of previous research, and on the other hand, that differences exist in how dysarthric and control speak- ers respond to changes in elicitation task. However, the qualitative analysis suggests that these differences between the subject groups are not as straightforward as the statistical analysis might suggest."},
+  keywords  = {caspd, read me!},
+  publisher = {Taylor \& Francis},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -17476,7 +17654,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
 1 KeywordGroup:Multiple Baseline Design\;0\;keywords\;multiple baseline\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Resynthesis\;0\;keywords\;resynthesis\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Ataxia\;0\;keywords\;ataxia\;0\;0\;1\;\;\;\;;
-1 KeywordGroup:Speech rate\;0\;keywords\;rate\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Speech rate\;0\;keywords\;rate\;0\;0\;0\;\;\;\;;
 2 KeywordGroup:Rate reduction\;0\;keywords\;rate reduction\;0\;0\;0\;\;\;\;;
 2 KeywordGroup:Healthy speech & rate\;0\;keywords\;healthy speech rate\;0\;0\;1\;\;\;\;;
 2 KeywordGroup:Clear speech\;0\;keywords\;clear speech\;0\;0\;1\;\;\;\;;
@@ -17488,7 +17666,7 @@ From duff2008: "In sharp contrast to studies designed to isolate production of m
 2 KeywordGroup:DRS\;0\;keywords\;drs\;0\;0\;1\;\;\;\;;
 2 KeywordGroup:MoCA\;0\;keywords\;moca\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Normal aging & speech changes\;0\;keywords\;aging\;0\;0\;0\;\;\;\;;
-1 KeywordGroup:Predictors of intelligibility\;0\;keywords\;intelligibility predictor\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Predictors of intelligibility\;0\;keywords\;intelligibility predictor\;0\;0\;0\;\;\;\;;
 2 KeywordGroup:f0\;0\;keywords\;f0\;0\;0\;1\;0x8a8a8aff\;\;\;;
 1 KeywordGroup:Acoustic distinctiveness\;0\;keywords\;acoustic distinctiveness\;0\;0\;1\;\;\;\;;
 1 KeywordGroup:Communication Devices\;0\;keywords\;communication devices\;0\;0\;1\;\;\;\;;
